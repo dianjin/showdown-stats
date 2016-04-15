@@ -1,7 +1,7 @@
 {
-  "name": "battle-spot-stats",
+  "name": "showdown-stats",
   "version": "1.0.0",
-  "description": "grabs usage data from the pokemon global link",
+  "description": "displays VGC16 usage stats from Smogon",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dianjin/battlespotstats.git"
+    "url": "git+https://github.com/dianjin/showdown-stats.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dianjin/battlespotstats/issues"
+    "url": "https://github.com/dianjin/showdown-stats/issues"
   },
-  "homepage": "https://github.com/dianjin/battlespotstats#readme",
+  "homepage": "https://github.com/dianjin/showdown-stats#readme",
   "devDependencies": {
     "babel-core": "^6.5.2",
     "babel-loader": "^6.2.4",
