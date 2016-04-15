@@ -31,7 +31,7 @@ const ContextSelect = ({context, onChangeContext, shiny, onToggleShiny}) => {
           target='_blank'>Smogon</a>.
         View on <a
           className='-credits'
-          href={'http://github.com/dianjin/battle-spot-stats'}
+          href={'http://github.com/dianjin/showdown-stats'}
           target='_blank'>GitHub</a>.
       </span>
     </div>
