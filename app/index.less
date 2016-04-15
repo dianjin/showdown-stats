@@ -1,0 +1,61 @@
+body {
+  font-family: 'Varela Round', sans-serif;
+  padding-top: 10px;
+  margin: 0 auto 50px auto;
+  width: 600px;
+}
+
+.clickable {
+  cursor:pointer;
+  cursor:hand;
+}
+
+icon {
+  background-image: url("/pokesprite/pokesprite.png");
+  content: ' ';
+  width: 40px;
+  height: 30px;
+  display: inline-block;
+  transform: scale(2);
+  transform-origin: 0 0;
+  -webkit-transform: scale(2);
+  -webkit-transform-origin: 0 0;
+  image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: -moz-crisp-edges;          /* Firefox                        */
+  image-rendering: -o-crisp-edges;            /* Opera                          */
+  image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+  image-rendering: pixelated; /* Chrome */
+  image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+  -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+}
+
+tr, td {
+  valign: top;
+  vertical-align: top;
+  height: 1px;
+}
+h1 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0;
+  margin: 5px 0px 0px 0px;
+  display: inline-block;
+}
+
+a {
+  &:hover {
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  &:active {
+    text-decoration: none;
+  }
+  &:visited {
+    text-decoration: none;
+  }
+}

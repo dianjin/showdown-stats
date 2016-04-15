@@ -1,0 +1,40 @@
+{
+  "name": "battle-spot-stats",
+  "version": "1.0.0",
+  "description": "grabs usage data from the pokemon global link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack-dev-server --devtool eval --inline --progress --colors --hot --content-base build",
+    "deploy": "NODE_ENV=production webpack -p --config webpack.production.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianjin/battlespotstats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianjin/battlespotstats/issues"
+  },
+  "homepage": "https://github.com/dianjin/battlespotstats#readme",
+  "devDependencies": {
+    "babel-core": "^6.5.2",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "css-loader": "^0.23.1",
+    "mkdirp": "^0.5.1",
+    "object-values": "^1.0.0",
+    "request": "^2.70.0",
+    "webpack": "^1.12.14"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "react-redux": "^4.4.0",
+    "react-select": "^1.0.0-beta10",
+    "redux": "^3.3.1",
+    "whatwg-fetch": "^0.11.0"
+  }
+}

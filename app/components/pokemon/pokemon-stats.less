@@ -1,0 +1,39 @@
+@import '../../constants/variables.less';
+
+.PokemonStats {
+  margin-top: @spacingSmallStandard + @spacingSmallMicro;
+  margin-left: 10px;
+  display: inline-block;
+  float: left;
+  .-data {
+    .-text {
+      font-size: @fontSizeStandard;
+      margin-right: @spacingSmallMicro;
+    }
+    .-number {
+      font-size: 1.5 * @fontSizeStandard
+    }
+    width: 140px;
+    box-sizing: border-box;
+    display: inline-block;
+    float: left;
+    margin-bottom: @spacingSmallStandard + @spacingSmallMicro;
+  }
+
+  .StatBar {
+    margin: 0 0 8px 0px;
+    padding: 0;
+    .-stat {
+      text-align: right;
+      display: inline-block;
+      width: 40px;
+      margin: 0px 8px 0px 0px;
+      font-size: 16px;
+      height: 16px;
+    }
+    .-bar {
+      display: inline-block;
+      height: 16px;
+    }
+  }
+}
