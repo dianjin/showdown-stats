@@ -2,6 +2,7 @@ import pokedex from '../dex/pokedex'
 import sprites from '../dex/sprites'
 
 const getNameFromKey = (key, toLowerCase = false) => {
+  if (key.startsWith('gourgeist')) return 'gourgeist'
   if (toLowerCase) {
     return (pokedex[key].species.replace('\'', '')).toLowerCase()
   } else {
