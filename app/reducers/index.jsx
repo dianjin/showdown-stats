@@ -13,7 +13,7 @@ const initialState = Immutable.fromJS({
   context: 'pokemon',
   perspective: {
     year: 2016,
-    month: 6,
+    month: 7,
     tier: 1630
   },
   lists: {
