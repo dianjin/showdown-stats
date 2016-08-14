@@ -1,6 +1,7 @@
 {
 	"groudonprimal": {
 		"name": "Groudon-Primal",
+		"rank": 1,
 		"abilities": [
 			{
 				"key": "desolateland",
@@ -167,6 +168,7 @@
 				"usage": 0.23
 			}
 		],
+		"usage": 71.79,
 		"moves": [
 			{
 				"key": "protect",
@@ -208,12 +210,11 @@
 				"key": "substitute",
 				"usage": 6.87
 			}
-		],
-		"rank": 1,
-		"usage": 71.79
+		]
 	},
 	"smeargle": {
 		"name": "Smeargle",
+		"rank": 2,
 		"abilities": [
 			{
 				"key": "moody",
@@ -266,7 +267,7 @@
 				"usage": 0.03
 			},
 			{
-				"key": "leftovers",
+				"key": "custapberry",
 				"usage": 0.02
 			}
 		],
@@ -424,6 +425,7 @@
 				"usage": 0.19
 			}
 		],
+		"usage": 55.83,
 		"moves": [
 			{
 				"key": "darkvoid",
@@ -465,12 +467,11 @@
 				"key": "quickguard",
 				"usage": 6.49
 			}
-		],
-		"rank": 2,
-		"usage": 55.83
+		]
 	},
 	"kangaskhanmega": {
 		"name": "Kangaskhan-Mega",
+		"rank": 3,
 		"abilities": [
 			{
 				"key": "parentalbond",
@@ -637,6 +638,7 @@
 				"usage": 0.78
 			}
 		],
+		"usage": 53.51,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -678,12 +680,11 @@
 				"key": "safeguard",
 				"usage": 3.9
 			}
-		],
-		"rank": 3,
-		"usage": 53.51
+		]
 	},
 	"xerneas": {
 		"name": "Xerneas",
+		"rank": 4,
 		"abilities": [
 			{
 				"key": "fairyaura",
@@ -886,6 +887,7 @@
 				"usage": 0.87
 			}
 		],
+		"usage": 52.11,
 		"moves": [
 			{
 				"key": "dazzlinggleam",
@@ -920,19 +922,18 @@
 				"usage": 0.74
 			},
 			{
-				"key": "thunderbolt",
+				"key": "psyshock",
 				"usage": 0.2
 			},
 			{
-				"key": "psyshock",
+				"key": "focusblast",
 				"usage": 0.2
 			}
-		],
-		"rank": 4,
-		"usage": 52.11
+		]
 	},
 	"salamencemega": {
 		"name": "Salamence-Mega",
+		"rank": 5,
 		"abilities": [
 			{
 				"key": "aerilate",
@@ -1099,6 +1100,7 @@
 				"usage": 0.26
 			}
 		],
+		"usage": 48.03,
 		"moves": [
 			{
 				"key": "hypervoice",
@@ -1140,12 +1142,11 @@
 				"key": "snore",
 				"usage": 1.63
 			}
-		],
-		"rank": 5,
-		"usage": 48.03
+		]
 	},
 	"kyogreprimal": {
 		"name": "Kyogre-Primal",
+		"rank": 6,
 		"abilities": [
 			{
 				"key": "primordialsea",
@@ -1312,6 +1313,7 @@
 				"usage": 1.58
 			}
 		],
+		"usage": 29.33,
 		"moves": [
 			{
 				"key": "protect",
@@ -1353,12 +1355,11 @@
 				"key": "calmmind",
 				"usage": 0.54
 			}
-		],
-		"rank": 6,
-		"usage": 29.33
+		]
 	},
 	"rayquazamega": {
 		"name": "Rayquaza-Mega",
+		"rank": 7,
 		"abilities": [
 			{
 				"key": "deltastream",
@@ -1561,6 +1562,7 @@
 				"usage": 3.74
 			}
 		],
+		"usage": 28.29,
 		"moves": [
 			{
 				"key": "dragonascent",
@@ -1602,12 +1604,11 @@
 				"key": "earthquake",
 				"usage": 1.63
 			}
-		],
-		"rank": 7,
-		"usage": 28.29
+		]
 	},
 	"talonflame": {
 		"name": "Talonflame",
+		"rank": 8,
 		"abilities": [
 			{
 				"key": "galewings",
@@ -1814,6 +1815,7 @@
 				"usage": 0.5
 			}
 		],
+		"usage": 24.55,
 		"moves": [
 			{
 				"key": "bravebird",
@@ -1852,15 +1854,14 @@
 				"usage": 8.05
 			},
 			{
-				"key": "swordsdance",
-				"usage": 6.13
+				"key": "",
+				"usage": 7.4
 			}
-		],
-		"rank": 8,
-		"usage": 24.55
+		]
 	},
 	"bronzong": {
 		"name": "Bronzong",
+		"rank": 9,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -1913,7 +1914,7 @@
 				"usage": 0.05
 			},
 			{
-				"key": "nothing",
+				"key": "rockyhelmet",
 				"usage": 0.03
 			}
 		],
@@ -2071,6 +2072,7 @@
 				"usage": 1.02
 			}
 		],
+		"usage": 23.55,
 		"moves": [
 			{
 				"key": "trickroom",
@@ -2112,12 +2114,11 @@
 				"key": "psychic",
 				"usage": 0.58
 			}
-		],
-		"rank": 9,
-		"usage": 23.55
+		]
 	},
 	"thundurus": {
 		"name": "Thundurus",
+		"rank": 10,
 		"abilities": [
 			{
 				"key": "prankster",
@@ -2320,6 +2321,7 @@
 				"usage": 1.31
 			}
 		],
+		"usage": 18.85,
 		"moves": [
 			{
 				"key": "thunderwave",
@@ -2361,12 +2363,11 @@
 				"key": "wildcharge",
 				"usage": 2.08
 			}
-		],
-		"rank": 10,
-		"usage": 18.85
+		]
 	},
 	"cresselia": {
 		"name": "Cresselia",
+		"rank": 11,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -2403,11 +2404,11 @@
 				"usage": 0.22
 			},
 			{
-				"key": "expertbelt",
+				"key": "nothing",
 				"usage": 0.09
 			},
 			{
-				"key": "nothing",
+				"key": "expertbelt",
 				"usage": 0.09
 			},
 			{
@@ -2569,6 +2570,7 @@
 				"usage": 0.33
 			}
 		],
+		"usage": 18.63,
 		"moves": [
 			{
 				"key": "icywind",
@@ -2610,12 +2612,11 @@
 				"key": "grassknot",
 				"usage": 8.27
 			}
-		],
-		"rank": 11,
-		"usage": 18.63
+		]
 	},
 	"amoonguss": {
 		"name": "Amoonguss",
+		"rank": 12,
 		"abilities": [
 			{
 				"key": "regenerator",
@@ -2822,6 +2823,7 @@
 				"usage": 0.84
 			}
 		],
+		"usage": 15.53,
 		"moves": [
 			{
 				"key": "spore",
@@ -2856,19 +2858,18 @@
 				"usage": 0.82
 			},
 			{
-				"key": "foulplay",
-				"usage": 0.29
+				"key": "",
+				"usage": 0.73
 			},
 			{
-				"key": "energyball",
-				"usage": 0.27
+				"key": "foulplay",
+				"usage": 0.29
 			}
-		],
-		"rank": 12,
-		"usage": 15.53
+		]
 	},
 	"scrafty": {
 		"name": "Scrafty",
+		"rank": 13,
 		"abilities": [
 			{
 				"key": "intimidate",
@@ -3079,6 +3080,7 @@
 				"usage": 0.27
 			}
 		],
+		"usage": 12.92,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -3120,12 +3122,11 @@
 				"key": "stoneedge",
 				"usage": 0.39
 			}
-		],
-		"rank": 13,
-		"usage": 12.92
+		]
 	},
 	"crobat": {
 		"name": "Crobat",
+		"rank": 14,
 		"abilities": [
 			{
 				"key": "innerfocus",
@@ -3332,6 +3333,7 @@
 				"usage": 1.67
 			}
 		],
+		"usage": 11.17,
 		"moves": [
 			{
 				"key": "tailwind",
@@ -3373,12 +3375,11 @@
 				"key": "protect",
 				"usage": 0.81
 			}
-		],
-		"rank": 14,
-		"usage": 11.17
+		]
 	},
 	"ferrothorn": {
 		"name": "Ferrothorn",
+		"rank": 15,
 		"abilities": [
 			{
 				"key": "ironbarbs",
@@ -3585,6 +3586,7 @@
 				"usage": 1.69
 			}
 		],
+		"usage": 10.2,
 		"moves": [
 			{
 				"key": "gyroball",
@@ -3626,12 +3628,11 @@
 				"key": "hiddenpowerfire",
 				"usage": 0.43
 			}
-		],
-		"rank": 15,
-		"usage": 10.2
+		]
 	},
 	"yveltal": {
 		"name": "Yveltal",
+		"rank": 16,
 		"abilities": [
 			{
 				"key": "darkaura",
@@ -3834,6 +3835,7 @@
 				"usage": 4.05
 			}
 		],
+		"usage": 9.4,
 		"moves": [
 			{
 				"key": "suckerpunch",
@@ -3875,12 +3877,11 @@
 				"key": "heatwave",
 				"usage": 1.24
 			}
-		],
-		"rank": 16,
-		"usage": 9.4
+		]
 	},
 	"gengarmega": {
 		"name": "Gengar-Mega",
+		"rank": 17,
 		"abilities": [
 			{
 				"key": "shadowtag",
@@ -4047,6 +4048,7 @@
 				"usage": 3.5
 			}
 		],
+		"usage": 8.51,
 		"moves": [
 			{
 				"key": "sludgebomb",
@@ -4088,12 +4090,11 @@
 				"key": "destinybond",
 				"usage": 7.19
 			}
-		],
-		"rank": 17,
-		"usage": 8.51
+		]
 	},
 	"whimsicott": {
 		"name": "Whimsicott",
+		"rank": 18,
 		"abilities": [
 			{
 				"key": "prankster",
@@ -4304,6 +4305,7 @@
 				"usage": 1.96
 			}
 		],
+		"usage": 7.81,
 		"moves": [
 			{
 				"key": "encore",
@@ -4345,12 +4347,11 @@
 				"key": "grassknot",
 				"usage": 6.21
 			}
-		],
-		"rank": 18,
-		"usage": 7.81
+		]
 	},
 	"sylveon": {
 		"name": "Sylveon",
+		"rank": 19,
 		"abilities": [
 			{
 				"key": "pixilate",
@@ -4557,6 +4558,7 @@
 				"usage": 0.63
 			}
 		],
+		"usage": 7.35,
 		"moves": [
 			{
 				"key": "hypervoice",
@@ -4598,12 +4600,11 @@
 				"key": "psychup",
 				"usage": 0.94
 			}
-		],
-		"rank": 19,
-		"usage": 7.35
+		]
 	},
 	"arcanine": {
 		"name": "Arcanine",
+		"rank": 20,
 		"abilities": [
 			{
 				"key": "intimidate",
@@ -4612,10 +4613,6 @@
 			{
 				"key": "flashfire",
 				"usage": 0.01
-			},
-			{
-				"key": "justified",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -4814,6 +4811,7 @@
 				"usage": 0.17
 			}
 		],
+		"usage": 6.22,
 		"moves": [
 			{
 				"key": "safeguard",
@@ -4855,12 +4853,11 @@
 				"key": "flamethrower",
 				"usage": 5
 			}
-		],
-		"rank": 20,
-		"usage": 6.22
+		]
 	},
 	"manectricmega": {
 		"name": "Manectric-Mega",
+		"rank": 21,
 		"abilities": [
 			{
 				"key": "intimidate",
@@ -5027,6 +5024,7 @@
 				"usage": 2.37
 			}
 		],
+		"usage": 5.38,
 		"moves": [
 			{
 				"key": "protect",
@@ -5068,12 +5066,11 @@
 				"key": "hiddenpowerdragon",
 				"usage": 1.9
 			}
-		],
-		"rank": 21,
-		"usage": 5.38
+		]
 	},
 	"suicune": {
 		"name": "Suicune",
+		"rank": 22,
 		"abilities": [
 			{
 				"key": "pressure",
@@ -5112,14 +5109,6 @@
 			{
 				"key": "redcard",
 				"usage": 0.01
-			},
-			{
-				"key": "widelens",
-				"usage": 0
-			},
-			{
-				"key": "airballoon",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -5276,6 +5265,7 @@
 				"usage": 0.18
 			}
 		],
+		"usage": 5.33,
 		"moves": [
 			{
 				"key": "scald",
@@ -5317,12 +5307,11 @@
 				"key": "calmmind",
 				"usage": 0.19
 			}
-		],
-		"rank": 22,
-		"usage": 5.33
+		]
 	},
 	"raichu": {
 		"name": "Raichu",
+		"rank": 23,
 		"abilities": [
 			{
 				"key": "lightningrod",
@@ -5529,6 +5518,7 @@
 				"usage": 1.64
 			}
 		],
+		"usage": 4.93,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -5570,12 +5560,11 @@
 				"key": "protect",
 				"usage": 5.61
 			}
-		],
-		"rank": 23,
-		"usage": 4.93
+		]
 	},
 	"hitmontop": {
 		"name": "Hitmontop",
+		"rank": 24,
 		"abilities": [
 			{
 				"key": "intimidate",
@@ -5584,10 +5573,6 @@
 			{
 				"key": "technician",
 				"usage": 0.11
-			},
-			{
-				"key": "steadfast",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -5786,6 +5771,7 @@
 				"usage": 6.43
 			}
 		],
+		"usage": 4.08,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -5827,12 +5813,11 @@
 				"key": "rapidspin",
 				"usage": 0.25
 			}
-		],
-		"rank": 24,
-		"usage": 4.08
+		]
 	},
 	"weavile": {
 		"name": "Weavile",
+		"rank": 25,
 		"abilities": [
 			{
 				"key": "pressure",
@@ -6039,6 +6024,7 @@
 				"usage": 1.96
 			}
 		],
+		"usage": 4.05,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -6080,12 +6066,11 @@
 				"key": "iceshard",
 				"usage": 2.04
 			}
-		],
-		"rank": 25,
-		"usage": 4.05
+		]
 	},
 	"togekiss": {
 		"name": "Togekiss",
+		"rank": 26,
 		"abilities": [
 			{
 				"key": "serenegrace",
@@ -6296,6 +6281,7 @@
 				"usage": 3.17
 			}
 		],
+		"usage": 3.9,
 		"moves": [
 			{
 				"key": "followme",
@@ -6337,12 +6323,11 @@
 				"key": "extremespeed",
 				"usage": 1.56
 			}
-		],
-		"rank": 26,
-		"usage": 3.9
+		]
 	},
 	"mawilemega": {
 		"name": "Mawile-Mega",
+		"rank": 27,
 		"abilities": [
 			{
 				"key": "hugepower",
@@ -6505,10 +6490,11 @@
 				"usage": 3.59
 			},
 			{
-				"key": "Breloom",
+				"key": "Gengar",
 				"usage": 3.42
 			}
 		],
+		"usage": 3.72,
 		"moves": [
 			{
 				"key": "protect",
@@ -6550,12 +6536,11 @@
 				"key": "substitute",
 				"usage": 0.32
 			}
-		],
-		"rank": 27,
-		"usage": 3.72
+		]
 	},
 	"clefairy": {
 		"name": "Clefairy",
+		"rank": 28,
 		"abilities": [
 			{
 				"key": "friendguard",
@@ -6592,24 +6577,12 @@
 				"usage": 0.02
 			},
 			{
-				"key": "nothing",
-				"usage": 0.01
-			},
-			{
 				"key": "choicespecs",
 				"usage": 0.01
 			},
 			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "choicescarf",
-				"usage": 0
-			},
-			{
-				"key": "assaultvest",
-				"usage": 0
+				"key": "nothing",
+				"usage": 0.01
 			}
 		],
 		"spreads": [
@@ -6766,6 +6739,7 @@
 				"usage": 1.72
 			}
 		],
+		"usage": 3.11,
 		"moves": [
 			{
 				"key": "followme",
@@ -6807,12 +6781,11 @@
 				"key": "thunderwave",
 				"usage": 6.63
 			}
-		],
-		"rank": 28,
-		"usage": 3.11
+		]
 	},
 	"landorustherian": {
 		"name": "Landorus-Therian",
+		"rank": 29,
 		"abilities": [
 			{
 				"key": "intimidate",
@@ -7015,6 +6988,7 @@
 				"usage": 3.77
 			}
 		],
+		"usage": 3.02,
 		"moves": [
 			{
 				"key": "earthquake",
@@ -7056,12 +7030,11 @@
 				"key": "grassknot",
 				"usage": 4.72
 			}
-		],
-		"rank": 29,
-		"usage": 3.02
+		]
 	},
 	"ditto": {
 		"name": "Ditto",
+		"rank": 30,
 		"abilities": [
 			{
 				"key": "imposter",
@@ -7268,21 +7241,21 @@
 				"usage": 2.65
 			}
 		],
+		"usage": 2.82,
 		"moves": [
+			{
+				"key": "",
+				"usage": 299.74
+			},
 			{
 				"key": "transform",
 				"usage": 99.91
-			},
-			{
-				"key": "other",
-				"usage": 0.0001
 			}
-		],
-		"rank": 30,
-		"usage": 2.82
+		]
 	},
 	"dialga": {
 		"name": "Dialga",
+		"rank": 31,
 		"abilities": [
 			{
 				"key": "pressure",
@@ -7489,6 +7462,7 @@
 				"usage": 1.99
 			}
 		],
+		"usage": 2.65,
 		"moves": [
 			{
 				"key": "dragonpulse",
@@ -7530,12 +7504,11 @@
 				"key": "thunderwave",
 				"usage": 4.79
 			}
-		],
-		"rank": 31,
-		"usage": 2.65
+		]
 	},
 	"jumpluff": {
 		"name": "Jumpluff",
+		"rank": 32,
 		"abilities": [
 			{
 				"key": "chlorophyll",
@@ -7746,6 +7719,7 @@
 				"usage": 0.24
 			}
 		],
+		"usage": 2.53,
 		"moves": [
 			{
 				"key": "sleeppowder",
@@ -7787,12 +7761,11 @@
 				"key": "dazzlinggleam",
 				"usage": 0.12
 			}
-		],
-		"rank": 32,
-		"usage": 2.53
+		]
 	},
 	"scizor": {
 		"name": "Scizor",
+		"rank": 33,
 		"abilities": [
 			{
 				"key": "technician",
@@ -7801,10 +7774,6 @@
 			{
 				"key": "swarm",
 				"usage": 2.93
-			},
-			{
-				"key": "lightmetal",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -8003,6 +7972,7 @@
 				"usage": 3.79
 			}
 		],
+		"usage": 2.46,
 		"moves": [
 			{
 				"key": "bulletpunch",
@@ -8044,12 +8014,11 @@
 				"key": "uturn",
 				"usage": 1.69
 			}
-		],
-		"rank": 33,
-		"usage": 2.46
+		]
 	},
 	"infernape": {
 		"name": "Infernape",
+		"rank": 34,
 		"abilities": [
 			{
 				"key": "blaze",
@@ -8094,11 +8063,11 @@
 				"usage": 0.04
 			},
 			{
-				"key": "expertbelt",
+				"key": "leftovers",
 				"usage": 0.02
 			},
 			{
-				"key": "leftovers",
+				"key": "choiceband",
 				"usage": 0.02
 			}
 		],
@@ -8256,6 +8225,7 @@
 				"usage": 6.37
 			}
 		],
+		"usage": 2.22,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -8297,12 +8267,11 @@
 				"key": "endeavor",
 				"usage": 0.66
 			}
-		],
-		"rank": 34,
-		"usage": 2.22
+		]
 	},
 	"kyogre": {
 		"name": "Kyogre",
+		"rank": 35,
 		"abilities": [
 			{
 				"key": "drizzle",
@@ -8339,15 +8308,15 @@
 				"usage": 0.02
 			},
 			{
-				"key": "choiceband",
-				"usage": 0.01
-			},
-			{
 				"key": "assaultvest",
 				"usage": 0.01
 			},
 			{
 				"key": "icicleplate",
+				"usage": 0.01
+			},
+			{
+				"key": "choiceband",
 				"usage": 0.01
 			}
 		],
@@ -8505,6 +8474,7 @@
 				"usage": 4.8
 			}
 		],
+		"usage": 2.11,
 		"moves": [
 			{
 				"key": "waterspout",
@@ -8543,15 +8513,14 @@
 				"usage": 0.18
 			},
 			{
-				"key": "hiddenpowerground",
+				"key": "",
 				"usage": 0.18
 			}
-		],
-		"rank": 35,
-		"usage": 2.11
+		]
 	},
 	"meowstic": {
 		"name": "Meowstic",
+		"rank": 36,
 		"abilities": [
 			{
 				"key": "prankster",
@@ -8766,6 +8735,7 @@
 				"usage": 1.78
 			}
 		],
+		"usage": 2.03,
 		"moves": [
 			{
 				"key": "safeguard",
@@ -8807,12 +8777,11 @@
 				"key": "lightscreen",
 				"usage": 17.77
 			}
-		],
-		"rank": 36,
-		"usage": 2.03
+		]
 	},
 	"zapdos": {
 		"name": "Zapdos",
+		"rank": 37,
 		"abilities": [
 			{
 				"key": "static",
@@ -9019,6 +8988,7 @@
 				"usage": 2.32
 			}
 		],
+		"usage": 1.87,
 		"moves": [
 			{
 				"key": "thunderbolt",
@@ -9060,12 +9030,11 @@
 				"key": "swagger",
 				"usage": 4.78
 			}
-		],
-		"rank": 37,
-		"usage": 1.87
+		]
 	},
 	"gengar": {
 		"name": "Gengar",
+		"rank": 38,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -9268,6 +9237,7 @@
 				"usage": 3.04
 			}
 		],
+		"usage": 1.63,
 		"moves": [
 			{
 				"key": "sludgebomb",
@@ -9309,12 +9279,11 @@
 				"key": "trickroom",
 				"usage": 7.66
 			}
-		],
-		"rank": 38,
-		"usage": 1.63
+		]
 	},
 	"aegislash": {
 		"name": "Aegislash",
+		"rank": 39,
 		"abilities": [
 			{
 				"key": "stancechange",
@@ -9517,6 +9486,7 @@
 				"usage": 3.64
 			}
 		],
+		"usage": 1.13,
 		"moves": [
 			{
 				"key": "kingsshield",
@@ -9558,12 +9528,11 @@
 				"key": "shadowclaw",
 				"usage": 3.02
 			}
-		],
-		"rank": 39,
-		"usage": 1.13
+		]
 	},
 	"aerodactyl": {
 		"name": "Aerodactyl",
+		"rank": 40,
 		"abilities": [
 			{
 				"key": "unnerve",
@@ -9600,24 +9569,12 @@
 				"usage": 0.03
 			},
 			{
-				"key": "choiceband",
-				"usage": 0.01
-			},
-			{
 				"key": "nothing",
 				"usage": 0.01
 			},
 			{
-				"key": "assaultvest",
-				"usage": 0
-			},
-			{
-				"key": "passhoberry",
-				"usage": 0
-			},
-			{
-				"key": "mentalherb",
-				"usage": 0
+				"key": "choiceband",
+				"usage": 0.01
 			}
 		],
 		"spreads": [
@@ -9774,6 +9731,7 @@
 				"usage": 0.45
 			}
 		],
+		"usage": 1.05,
 		"moves": [
 			{
 				"key": "tailwind",
@@ -9815,12 +9773,11 @@
 				"key": "earthquake",
 				"usage": 0.05
 			}
-		],
-		"rank": 40,
-		"usage": 1.05
+		]
 	},
 	"kyuremwhite": {
 		"name": "Kyurem-White",
+		"rank": 41,
 		"abilities": [
 			{
 				"key": "turboblaze",
@@ -10023,6 +9980,7 @@
 				"usage": 6.92
 			}
 		],
+		"usage": 1.04,
 		"moves": [
 			{
 				"key": "blizzard",
@@ -10064,12 +10022,11 @@
 				"key": "flashcannon",
 				"usage": 1.76
 			}
-		],
-		"rank": 41,
-		"usage": 1.04
+		]
 	},
 	"rotomwash": {
 		"name": "Rotom-Wash",
+		"rank": 42,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -10114,7 +10071,7 @@
 				"usage": 0.18
 			},
 			{
-				"key": "rockyhelmet",
+				"key": "focussash",
 				"usage": 0.12
 			}
 		],
@@ -10272,6 +10229,7 @@
 				"usage": 3.46
 			}
 		],
+		"usage": 1.03,
 		"moves": [
 			{
 				"key": "hydropump",
@@ -10313,12 +10271,11 @@
 				"key": "discharge",
 				"usage": 8.41
 			}
-		],
-		"rank": 42,
-		"usage": 1.03
+		]
 	},
 	"liepard": {
 		"name": "Liepard",
+		"rank": 43,
 		"abilities": [
 			{
 				"key": "prankster",
@@ -10327,10 +10284,6 @@
 			{
 				"key": "limber",
 				"usage": 0.2
-			},
-			{
-				"key": "unburden",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -10521,14 +10474,15 @@
 				"usage": 5
 			},
 			{
-				"key": "Crobat",
+				"key": "Lucario-Mega",
 				"usage": 2.45
 			},
 			{
-				"key": "Lucario-Mega",
+				"key": "Crobat",
 				"usage": 2.45
 			}
 		],
+		"usage": 1.02,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -10570,12 +10524,11 @@
 				"key": "protect",
 				"usage": 5.15
 			}
-		],
-		"rank": 43,
-		"usage": 1.02
+		]
 	},
 	"greninja": {
 		"name": "Greninja",
+		"rank": 44,
 		"abilities": [
 			{
 				"key": "protean",
@@ -10782,6 +10735,7 @@
 				"usage": 6.72
 			}
 		],
+		"usage": 1,
 		"moves": [
 			{
 				"key": "icebeam",
@@ -10823,12 +10777,11 @@
 				"key": "hiddenpowerfire",
 				"usage": 10.62
 			}
-		],
-		"rank": 44,
-		"usage": 1
+		]
 	},
 	"ludicolo": {
 		"name": "Ludicolo",
+		"rank": 45,
 		"abilities": [
 			{
 				"key": "swiftswim",
@@ -11039,6 +10992,7 @@
 				"usage": 1.56
 			}
 		],
+		"usage": 0.93,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -11077,15 +11031,14 @@
 				"usage": 1.45
 			},
 			{
-				"key": "teeterdance",
+				"key": "solarbeam",
 				"usage": 1.04
 			}
-		],
-		"rank": 45,
-		"usage": 0.93
+		]
 	},
 	"hooh": {
 		"name": "Ho-Oh",
+		"rank": 46,
 		"abilities": [
 			{
 				"key": "pressure",
@@ -11288,6 +11241,7 @@
 				"usage": 7.36
 			}
 		],
+		"usage": 0.74,
 		"moves": [
 			{
 				"key": "sacredfire",
@@ -11329,12 +11283,11 @@
 				"key": "earthquake",
 				"usage": 2.3
 			}
-		],
-		"rank": 46,
-		"usage": 0.74
+		]
 	},
 	"exeggutor": {
 		"name": "Exeggutor",
+		"rank": 47,
 		"abilities": [
 			{
 				"key": "chlorophyll",
@@ -11377,14 +11330,6 @@
 			{
 				"key": "lumberry",
 				"usage": 0.02
-			},
-			{
-				"key": "airballoon",
-				"usage": 0
-			},
-			{
-				"key": "focusband",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -11541,6 +11486,7 @@
 				"usage": 0.62
 			}
 		],
+		"usage": 0.65,
 		"moves": [
 			{
 				"key": "protect",
@@ -11582,12 +11528,11 @@
 				"key": "skillswap",
 				"usage": 2.18
 			}
-		],
-		"rank": 47,
-		"usage": 0.65
+		]
 	},
 	"togetic": {
 		"name": "Togetic",
+		"rank": 48,
 		"abilities": [
 			{
 				"key": "superluck",
@@ -11610,38 +11555,6 @@
 			{
 				"key": "airballoon",
 				"usage": 0.01
-			},
-			{
-				"key": "leftovers",
-				"usage": 0
-			},
-			{
-				"key": "choicescarf",
-				"usage": 0
-			},
-			{
-				"key": "quickclaw",
-				"usage": 0
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "sitrusberry",
-				"usage": 0
-			},
-			{
-				"key": "lumberry",
-				"usage": 0
-			},
-			{
-				"key": "focussash",
-				"usage": 0
-			},
-			{
-				"key": "choiceband",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -11798,6 +11711,7 @@
 				"usage": 0.55
 			}
 		],
+		"usage": 0.65,
 		"moves": [
 			{
 				"key": "followme",
@@ -11839,12 +11753,11 @@
 				"key": "protect",
 				"usage": 0.85
 			}
-		],
-		"rank": 48,
-		"usage": 0.65
+		]
 	},
 	"heatran": {
 		"name": "Heatran",
+		"rank": 49,
 		"abilities": [
 			{
 				"key": "flashfire",
@@ -12047,6 +11960,7 @@
 				"usage": 3.64
 			}
 		],
+		"usage": 0.64,
 		"moves": [
 			{
 				"key": "earthpower",
@@ -12088,12 +12002,11 @@
 				"key": "flamethrower",
 				"usage": 2.16
 			}
-		],
-		"rank": 49,
-		"usage": 0.64
+		]
 	},
 	"sceptilemega": {
 		"name": "Sceptile-Mega",
+		"rank": 50,
 		"abilities": [
 			{
 				"key": "lightningrod",
@@ -12196,17 +12109,6 @@
 				"usage": 0.52
 			},
 			{
-				"nature": "Modest",
-				"hp": 0,
-				"atk": 0,
-				"def": 0,
-				"spa": 252,
-				"spd": 4,
-				"spe": 252,
-				"key": "Modest:0/0/0/252/4/252",
-				"usage": 0.36
-			},
-			{
 				"nature": "Timid",
 				"hp": 0,
 				"atk": 0,
@@ -12215,6 +12117,17 @@
 				"spd": 0,
 				"spe": 252,
 				"key": "Timid:0/0/0/252/0/252",
+				"usage": 0.36
+			},
+			{
+				"nature": "Modest",
+				"hp": 0,
+				"atk": 0,
+				"def": 0,
+				"spa": 252,
+				"spd": 4,
+				"spe": 252,
+				"key": "Modest:0/0/0/252/4/252",
 				"usage": 0.36
 			}
 		],
@@ -12260,6 +12173,7 @@
 				"usage": 1.91
 			}
 		],
+		"usage": 0.6,
 		"moves": [
 			{
 				"key": "dragonpulse",
@@ -12301,12 +12215,11 @@
 				"key": "focusblast",
 				"usage": 1.87
 			}
-		],
-		"rank": 50,
-		"usage": 0.6
+		]
 	},
 	"gyarados": {
 		"name": "Gyarados",
+		"rank": 51,
 		"abilities": [
 			{
 				"key": "intimidate",
@@ -12513,6 +12426,7 @@
 				"usage": 1.36
 			}
 		],
+		"usage": 0.59,
 		"moves": [
 			{
 				"key": "waterfall",
@@ -12554,12 +12468,11 @@
 				"key": "earthquake",
 				"usage": 3.62
 			}
-		],
-		"rank": 51,
-		"usage": 0.59
+		]
 	},
 	"sableye": {
 		"name": "Sableye",
+		"rank": 52,
 		"abilities": [
 			{
 				"key": "prankster",
@@ -12568,10 +12481,6 @@
 			{
 				"key": "keeneye",
 				"usage": 0.57
-			},
-			{
-				"key": "stall",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -12662,17 +12571,6 @@
 				"usage": 3.68
 			},
 			{
-				"nature": "Impish",
-				"hp": 252,
-				"atk": 0,
-				"def": 68,
-				"spa": 0,
-				"spd": 184,
-				"spe": 0,
-				"key": "Impish:252/0/68/0/184/0",
-				"usage": 3.46
-			},
-			{
 				"nature": "Relaxed",
 				"hp": 236,
 				"atk": 4,
@@ -12681,6 +12579,17 @@
 				"spd": 116,
 				"spe": 4,
 				"key": "Relaxed:236/4/148/0/116/4",
+				"usage": 3.46
+			},
+			{
+				"nature": "Impish",
+				"hp": 252,
+				"atk": 0,
+				"def": 68,
+				"spa": 0,
+				"spd": 184,
+				"spe": 0,
+				"key": "Impish:252/0/68/0/184/0",
 				"usage": 3.46
 			},
 			{
@@ -12770,6 +12679,7 @@
 				"usage": 1.78
 			}
 		],
+		"usage": 0.59,
 		"moves": [
 			{
 				"key": "quash",
@@ -12808,15 +12718,14 @@
 				"usage": 4.17
 			},
 			{
-				"key": "roleplay",
-				"usage": 2.45
+				"key": "",
+				"usage": 2.74
 			}
-		],
-		"rank": 52,
-		"usage": 0.59
+		]
 	},
 	"venusaurmega": {
 		"name": "Venusaur-Mega",
+		"rank": 53,
 		"abilities": [
 			{
 				"key": "thickfat",
@@ -12983,6 +12892,7 @@
 				"usage": 2.32
 			}
 		],
+		"usage": 0.54,
 		"moves": [
 			{
 				"key": "sludgebomb",
@@ -13024,12 +12934,11 @@
 				"key": "energyball",
 				"usage": 0.84
 			}
-		],
-		"rank": 53,
-		"usage": 0.54
+		]
 	},
 	"sableyemega": {
 		"name": "Sableye-Mega",
+		"rank": 54,
 		"abilities": [
 			{
 				"key": "magicbounce",
@@ -13196,6 +13105,7 @@
 				"usage": 4.92
 			}
 		],
+		"usage": 0.5,
 		"moves": [
 			{
 				"key": "foulplay",
@@ -13237,12 +13147,11 @@
 				"key": "snarl",
 				"usage": 7.03
 			}
-		],
-		"rank": 54,
-		"usage": 0.5
+		]
 	},
 	"palkia": {
 		"name": "Palkia",
+		"rank": 55,
 		"abilities": [
 			{
 				"key": "pressure",
@@ -13429,11 +13338,11 @@
 				"usage": 10.87
 			},
 			{
-				"key": "Terrakion",
+				"key": "Metagross-Mega",
 				"usage": 10.65
 			},
 			{
-				"key": "Metagross-Mega",
+				"key": "Terrakion",
 				"usage": 10.65
 			},
 			{
@@ -13449,6 +13358,7 @@
 				"usage": 6.27
 			}
 		],
+		"usage": 0.5,
 		"moves": [
 			{
 				"key": "spacialrend",
@@ -13490,12 +13400,11 @@
 				"key": "icebeam",
 				"usage": 7.22
 			}
-		],
-		"rank": 55,
-		"usage": 0.5
+		]
 	},
 	"shedinja": {
 		"name": "Shedinja",
+		"rank": 56,
 		"abilities": [
 			{
 				"key": "wonderguard",
@@ -13534,14 +13443,6 @@
 			{
 				"key": "weaknesspolicy",
 				"usage": 0.02
-			},
-			{
-				"key": "focusband",
-				"usage": 0
-			},
-			{
-				"key": "lifeorb",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -13698,6 +13599,7 @@
 				"usage": 0.9
 			}
 		],
+		"usage": 0.49,
 		"moves": [
 			{
 				"key": "protect",
@@ -13739,12 +13641,11 @@
 				"key": "nightslash",
 				"usage": 3.55
 			}
-		],
-		"rank": 56,
-		"usage": 0.49
+		]
 	},
 	"gothitelle": {
 		"name": "Gothitelle",
+		"rank": 57,
 		"abilities": [
 			{
 				"key": "shadowtag",
@@ -13753,10 +13654,6 @@
 			{
 				"key": "frisk",
 				"usage": 0.37
-			},
-			{
-				"key": "competitive",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -13791,14 +13688,6 @@
 			{
 				"key": "nothing",
 				"usage": 0.01
-			},
-			{
-				"key": "assaultvest",
-				"usage": 0
-			},
-			{
-				"key": "lifeorb",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -13955,6 +13844,7 @@
 				"usage": 2.4
 			}
 		],
+		"usage": 0.45,
 		"moves": [
 			{
 				"key": "trickroom",
@@ -13996,12 +13886,11 @@
 				"key": "psyshock",
 				"usage": 2.96
 			}
-		],
-		"rank": 57,
-		"usage": 0.45
+		]
 	},
 	"breloom": {
 		"name": "Breloom",
+		"rank": 58,
 		"abilities": [
 			{
 				"key": "technician",
@@ -14126,17 +14015,6 @@
 				"usage": 2.84
 			},
 			{
-				"nature": "Jolly",
-				"hp": 0,
-				"atk": 252,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Jolly:0/252/0/0/0/252",
-				"usage": 2.09
-			},
-			{
 				"nature": "Adamant",
 				"hp": 20,
 				"atk": 236,
@@ -14145,6 +14023,17 @@
 				"spd": 0,
 				"spe": 0,
 				"key": "Adamant:20/236/252/0/0/0",
+				"usage": 2.09
+			},
+			{
+				"nature": "Jolly",
+				"hp": 0,
+				"atk": 252,
+				"def": 0,
+				"spa": 0,
+				"spd": 0,
+				"spe": 252,
+				"key": "Jolly:0/252/0/0/0/252",
 				"usage": 2.09
 			},
 			{
@@ -14212,6 +14101,7 @@
 				"usage": 5.73
 			}
 		],
+		"usage": 0.43,
 		"moves": [
 			{
 				"key": "bulletseed",
@@ -14234,6 +14124,10 @@
 				"usage": 35.99
 			},
 			{
+				"key": "",
+				"usage": 23.75
+			},
+			{
 				"key": "substitute",
 				"usage": 2.45
 			},
@@ -14248,17 +14142,12 @@
 			{
 				"key": "seedbomb",
 				"usage": 0.83
-			},
-			{
-				"key": "superpower",
-				"usage": 0.69
 			}
-		],
-		"rank": 58,
-		"usage": 0.43
+		]
 	},
 	"slowbro": {
 		"name": "Slowbro",
+		"rank": 59,
 		"abilities": [
 			{
 				"key": "regenerator",
@@ -14469,6 +14358,7 @@
 				"usage": 1.46
 			}
 		],
+		"usage": 0.42,
 		"moves": [
 			{
 				"key": "trickroom",
@@ -14510,12 +14400,11 @@
 				"key": "slackoff",
 				"usage": 1.19
 			}
-		],
-		"rank": 59,
-		"usage": 0.42
+		]
 	},
 	"metagrossmega": {
 		"name": "Metagross-Mega",
+		"rank": 60,
 		"abilities": [
 			{
 				"key": "toughclaws",
@@ -14682,6 +14571,7 @@
 				"usage": 11.08
 			}
 		],
+		"usage": 0.4,
 		"moves": [
 			{
 				"key": "protect",
@@ -14723,12 +14613,11 @@
 				"key": "substitute",
 				"usage": 7
 			}
-		],
-		"rank": 60,
-		"usage": 0.4
+		]
 	},
 	"gardevoirmega": {
 		"name": "Gardevoir-Mega",
+		"rank": 61,
 		"abilities": [
 			{
 				"key": "pixilate",
@@ -14895,6 +14784,7 @@
 				"usage": 4.01
 			}
 		],
+		"usage": 0.38,
 		"moves": [
 			{
 				"key": "hypervoice",
@@ -14936,12 +14826,11 @@
 				"key": "round",
 				"usage": 6.12
 			}
-		],
-		"rank": 61,
-		"usage": 0.38
+		]
 	},
 	"terrakion": {
 		"name": "Terrakion",
+		"rank": 62,
 		"abilities": [
 			{
 				"key": "justified",
@@ -15144,6 +15033,7 @@
 				"usage": 5.71
 			}
 		],
+		"usage": 0.37,
 		"moves": [
 			{
 				"key": "rockslide",
@@ -15185,12 +15075,11 @@
 				"key": "quickattack",
 				"usage": 6.2
 			}
-		],
-		"rank": 62,
-		"usage": 0.37
+		]
 	},
 	"azumarill": {
 		"name": "Azumarill",
+		"rank": 63,
 		"abilities": [
 			{
 				"key": "hugepower",
@@ -15401,6 +15290,7 @@
 				"usage": 3.11
 			}
 		],
+		"usage": 0.36,
 		"moves": [
 			{
 				"key": "aquajet",
@@ -15442,12 +15332,11 @@
 				"key": "doubleedge",
 				"usage": 0.91
 			}
-		],
-		"rank": 63,
-		"usage": 0.36
+		]
 	},
 	"mienshao": {
 		"name": "Mienshao",
+		"rank": 64,
 		"abilities": [
 			{
 				"key": "innerfocus",
@@ -15658,6 +15547,7 @@
 				"usage": 3.12
 			}
 		],
+		"usage": 0.35,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -15699,12 +15589,11 @@
 				"key": "roleplay",
 				"usage": 11.2
 			}
-		],
-		"rank": 64,
-		"usage": 0.35
+		]
 	},
 	"giratinaorigin": {
 		"name": "Giratina-Origin",
+		"rank": 65,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -15871,6 +15760,7 @@
 				"usage": 5.68
 			}
 		],
+		"usage": 0.33,
 		"moves": [
 			{
 				"key": "shadowforce",
@@ -15912,24 +15802,15 @@
 				"key": "dragontail",
 				"usage": 5.58
 			}
-		],
-		"rank": 65,
-		"usage": 0.33
+		]
 	},
 	"porygonz": {
 		"name": "Porygon-Z",
+		"rank": 66,
 		"abilities": [
 			{
 				"key": "adaptability",
 				"usage": 99.91
-			},
-			{
-				"key": "download",
-				"usage": 0
-			},
-			{
-				"key": "analytic",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -15968,10 +15849,6 @@
 			{
 				"key": "silkscarf",
 				"usage": 0.01
-			},
-			{
-				"key": "ironball",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -16128,6 +16005,7 @@
 				"usage": 0.94
 			}
 		],
+		"usage": 0.32,
 		"moves": [
 			{
 				"key": "hyperbeam",
@@ -16144,6 +16022,10 @@
 			{
 				"key": "trickroom",
 				"usage": 90.85
+			},
+			{
+				"key": "",
+				"usage": 8.39
 			},
 			{
 				"key": "lastresort",
@@ -16164,17 +16046,12 @@
 			{
 				"key": "magiccoat",
 				"usage": 1.5
-			},
-			{
-				"key": "icywind",
-				"usage": 1.28
 			}
-		],
-		"rank": 66,
-		"usage": 0.32
+		]
 	},
 	"espeon": {
 		"name": "Espeon",
+		"rank": 67,
 		"abilities": [
 			{
 				"key": "magicbounce",
@@ -16381,6 +16258,7 @@
 				"usage": 3.5
 			}
 		],
+		"usage": 0.3,
 		"moves": [
 			{
 				"key": "psychic",
@@ -16422,12 +16300,11 @@
 				"key": "magicroom",
 				"usage": 6.13
 			}
-		],
-		"rank": 67,
-		"usage": 0.3
+		]
 	},
 	"mewtwo": {
 		"name": "Mewtwo",
+		"rank": 68,
 		"abilities": [
 			{
 				"key": "pressure",
@@ -16634,6 +16511,7 @@
 				"usage": 3.27
 			}
 		],
+		"usage": 0.3,
 		"moves": [
 			{
 				"key": "psystrike",
@@ -16675,12 +16553,11 @@
 				"key": "safeguard",
 				"usage": 9.85
 			}
-		],
-		"rank": 68,
-		"usage": 0.3
+		]
 	},
 	"gyaradosmega": {
 		"name": "Gyarados-Mega",
+		"rank": 69,
 		"abilities": [
 			{
 				"key": "moldbreaker",
@@ -16847,6 +16724,7 @@
 				"usage": 1.43
 			}
 		],
+		"usage": 0.29,
 		"moves": [
 			{
 				"key": "waterfall",
@@ -16888,12 +16766,11 @@
 				"key": "dragontail",
 				"usage": 0.67
 			}
-		],
-		"rank": 69,
-		"usage": 0.29
+		]
 	},
 	"gastrodon": {
 		"name": "Gastrodon",
+		"rank": 70,
 		"abilities": [
 			{
 				"key": "stormdrain",
@@ -16902,10 +16779,6 @@
 			{
 				"key": "stickyhold",
 				"usage": 0.44
-			},
-			{
-				"key": "sandforce",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -16944,10 +16817,6 @@
 			{
 				"key": "absorbbulb",
 				"usage": 0.01
-			},
-			{
-				"key": "focussash",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -17104,6 +16973,7 @@
 				"usage": 1.89
 			}
 		],
+		"usage": 0.29,
 		"moves": [
 			{
 				"key": "earthpower",
@@ -17145,12 +17015,11 @@
 				"key": "muddywater",
 				"usage": 5.04
 			}
-		],
-		"rank": 70,
-		"usage": 0.29
+		]
 	},
 	"staraptor": {
 		"name": "Staraptor",
+		"rank": 71,
 		"abilities": [
 			{
 				"key": "intimidate",
@@ -17357,6 +17226,7 @@
 				"usage": 0.05
 			}
 		],
+		"usage": 0.29,
 		"moves": [
 			{
 				"key": "bravebird",
@@ -17398,12 +17268,11 @@
 				"key": "uproar",
 				"usage": 0.07
 			}
-		],
-		"rank": 71,
-		"usage": 0.29
+		]
 	},
 	"vanilluxe": {
 		"name": "Vanilluxe",
+		"rank": 72,
 		"abilities": [
 			{
 				"key": "weakarmor",
@@ -17426,34 +17295,6 @@
 			{
 				"key": "lifeorb",
 				"usage": 0.16
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "nevermeltice",
-				"usage": 0
-			},
-			{
-				"key": "widelens",
-				"usage": 0
-			},
-			{
-				"key": "assaultvest",
-				"usage": 0
-			},
-			{
-				"key": "quickclaw",
-				"usage": 0
-			},
-			{
-				"key": "occaberry",
-				"usage": 0
-			},
-			{
-				"key": "lumberry",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -17500,72 +17341,6 @@
 				"spe": 252,
 				"key": "Timid:0/0/0/252/4/252",
 				"usage": 0.02
-			},
-			{
-				"nature": "Timid",
-				"hp": 204,
-				"atk": 0,
-				"def": 0,
-				"spa": 252,
-				"spd": 0,
-				"spe": 52,
-				"key": "Timid:204/0/0/252/0/52",
-				"usage": 0
-			},
-			{
-				"nature": "Timid",
-				"hp": 0,
-				"atk": 0,
-				"def": 4,
-				"spa": 252,
-				"spd": 0,
-				"spe": 252,
-				"key": "Timid:0/0/4/252/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Quiet",
-				"hp": 252,
-				"atk": 0,
-				"def": 4,
-				"spa": 252,
-				"spd": 0,
-				"spe": 0,
-				"key": "Quiet:252/0/4/252/0/0",
-				"usage": 0
-			},
-			{
-				"nature": "Modest",
-				"hp": 248,
-				"atk": 0,
-				"def": 0,
-				"spa": 252,
-				"spd": 8,
-				"spe": 0,
-				"key": "Modest:248/0/0/252/8/0",
-				"usage": 0
-			},
-			{
-				"nature": "Bold",
-				"hp": 252,
-				"atk": 0,
-				"def": 156,
-				"spa": 0,
-				"spd": 100,
-				"spe": 0,
-				"key": "Bold:252/0/156/0/100/0",
-				"usage": 0
-			},
-			{
-				"nature": "Modest",
-				"hp": 172,
-				"atk": 0,
-				"def": 0,
-				"spa": 252,
-				"spd": 0,
-				"spe": 84,
-				"key": "Modest:172/0/0/252/0/84",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -17596,20 +17371,9 @@
 			{
 				"key": "Delphox",
 				"usage": 0.01
-			},
-			{
-				"key": "Empoleon",
-				"usage": -0.01
-			},
-			{
-				"key": "Emolga",
-				"usage": 0
-			},
-			{
-				"key": "Butterfree",
-				"usage": 0
 			}
 		],
+		"usage": 0.24,
 		"moves": [
 			{
 				"key": "freezedry",
@@ -17651,12 +17415,11 @@
 				"key": "flashcannon",
 				"usage": 0.03
 			}
-		],
-		"rank": 72,
-		"usage": 0.24
+		]
 	},
 	"virizion": {
 		"name": "Virizion",
+		"rank": 73,
 		"abilities": [
 			{
 				"key": "justified",
@@ -17691,18 +17454,6 @@
 			{
 				"key": "sitrusberry",
 				"usage": 0.01
-			},
-			{
-				"key": "muscleband",
-				"usage": 0
-			},
-			{
-				"key": "blackbelt",
-				"usage": 0
-			},
-			{
-				"key": "eviolite",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -17853,12 +17604,9 @@
 			{
 				"key": "Blaziken-Mega",
 				"usage": 0.13
-			},
-			{
-				"key": "Kangaskhan-Mega",
-				"usage": -36.07
 			}
 		],
+		"usage": 0.24,
 		"moves": [
 			{
 				"key": "closecombat",
@@ -17900,12 +17648,11 @@
 				"key": "quickattack",
 				"usage": 0.17
 			}
-		],
-		"rank": 73,
-		"usage": 0.24
+		]
 	},
 	"rotomheat": {
 		"name": "Rotom-Heat",
+		"rank": 74,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -18108,6 +17855,7 @@
 				"usage": 0.73
 			}
 		],
+		"usage": 0.22,
 		"moves": [
 			{
 				"key": "overheat",
@@ -18149,12 +17897,11 @@
 				"key": "darkpulse",
 				"usage": 0.53
 			}
-		],
-		"rank": 74,
-		"usage": 0.22
+		]
 	},
 	"scizormega": {
 		"name": "Scizor-Mega",
+		"rank": 75,
 		"abilities": [
 			{
 				"key": "technician",
@@ -18321,6 +18068,7 @@
 				"usage": 3.55
 			}
 		],
+		"usage": 0.2,
 		"moves": [
 			{
 				"key": "bulletpunch",
@@ -18362,12 +18110,11 @@
 				"key": "xscissor",
 				"usage": 1.16
 			}
-		],
-		"rank": 75,
-		"usage": 0.2
+		]
 	},
 	"parasect": {
 		"name": "Parasect",
+		"rank": 76,
 		"abilities": [
 			{
 				"key": "dryskin",
@@ -18376,10 +18123,6 @@
 			{
 				"key": "effectspore",
 				"usage": 7.48
-			},
-			{
-				"key": "damp",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -18416,11 +18159,11 @@
 				"usage": 0.05
 			},
 			{
-				"key": "rockyhelmet",
+				"key": "lifeorb",
 				"usage": 0.01
 			},
 			{
-				"key": "lifeorb",
+				"key": "eviolite",
 				"usage": 0.01
 			}
 		],
@@ -18578,6 +18321,7 @@
 				"usage": 0.93
 			}
 		],
+		"usage": 0.19,
 		"moves": [
 			{
 				"key": "spore",
@@ -18619,12 +18363,11 @@
 				"key": "worryseed",
 				"usage": 0.55
 			}
-		],
-		"rank": 76,
-		"usage": 0.19
+		]
 	},
 	"venusaur": {
 		"name": "Venusaur",
+		"rank": 77,
 		"abilities": [
 			{
 				"key": "chlorophyll",
@@ -18831,6 +18574,7 @@
 				"usage": 3.3
 			}
 		],
+		"usage": 0.19,
 		"moves": [
 			{
 				"key": "sludgebomb",
@@ -18872,12 +18616,11 @@
 				"key": "leechseed",
 				"usage": 2.68
 			}
-		],
-		"rank": 77,
-		"usage": 0.19
+		]
 	},
 	"golduck": {
 		"name": "Golduck",
+		"rank": 78,
 		"abilities": [
 			{
 				"key": "cloudnine",
@@ -19088,6 +18831,7 @@
 				"usage": 3.33
 			}
 		],
+		"usage": 0.18,
 		"moves": [
 			{
 				"key": "scald",
@@ -19129,12 +18873,11 @@
 				"key": "disable",
 				"usage": 7.21
 			}
-		],
-		"rank": 78,
-		"usage": 0.18
+		]
 	},
 	"porygon2": {
 		"name": "Porygon2",
+		"rank": 79,
 		"abilities": [
 			{
 				"key": "download",
@@ -19165,30 +18908,6 @@
 			{
 				"key": "choicespecs",
 				"usage": 0.03
-			},
-			{
-				"key": "weaknesspolicy",
-				"usage": 0
-			},
-			{
-				"key": "choicescarf",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "focussash",
-				"usage": 0
-			},
-			{
-				"key": "laggingtail",
-				"usage": 0
-			},
-			{
-				"key": "lumberry",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -19341,10 +19060,11 @@
 				"usage": 4.32
 			},
 			{
-				"key": "Dialga",
+				"key": "Tornadus",
 				"usage": 4.07
 			}
 		],
+		"usage": 0.17,
 		"moves": [
 			{
 				"key": "trickroom",
@@ -19386,12 +19106,11 @@
 				"key": "hyperbeam",
 				"usage": 1.59
 			}
-		],
-		"rank": 79,
-		"usage": 0.17
+		]
 	},
 	"mewtwomegay": {
 		"name": "Mewtwo-Mega-Y",
+		"rank": 80,
 		"abilities": [
 			{
 				"key": "insomnia",
@@ -19558,6 +19277,7 @@
 				"usage": 4.47
 			}
 		],
+		"usage": 0.17,
 		"moves": [
 			{
 				"key": "psystrike",
@@ -19599,12 +19319,11 @@
 				"key": "fireblast",
 				"usage": 5.85
 			}
-		],
-		"rank": 80,
-		"usage": 0.17
+		]
 	},
 	"gourgeistsuper": {
 		"name": "Gourgeist-Super",
+		"rank": 81,
 		"abilities": [
 			{
 				"key": "insomnia",
@@ -19651,14 +19370,6 @@
 			{
 				"key": "nothing",
 				"usage": 0.01
-			},
-			{
-				"key": "ironball",
-				"usage": 0
-			},
-			{
-				"key": "bigroot",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -19815,6 +19526,7 @@
 				"usage": 1.15
 			}
 		],
+		"usage": 0.16,
 		"moves": [
 			{
 				"key": "trickroom",
@@ -19856,12 +19568,11 @@
 				"key": "foulplay",
 				"usage": 1.98
 			}
-		],
-		"rank": 81,
-		"usage": 0.16
+		]
 	},
 	"lickilicky": {
 		"name": "Lickilicky",
+		"rank": 82,
 		"abilities": [
 			{
 				"key": "cloudnine",
@@ -19870,10 +19581,6 @@
 			{
 				"key": "owntempo",
 				"usage": 0.25
-			},
-			{
-				"key": "oblivious",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -20072,6 +19779,7 @@
 				"usage": 2.48
 			}
 		],
+		"usage": 0.15,
 		"moves": [
 			{
 				"key": "icebeam",
@@ -20113,12 +19821,11 @@
 				"key": "knockoff",
 				"usage": 4.03
 			}
-		],
-		"rank": 82,
-		"usage": 0.15
+		]
 	},
 	"zygarde": {
 		"name": "Zygarde",
+		"rank": 83,
 		"abilities": [
 			{
 				"key": "aurabreak",
@@ -20321,6 +20028,7 @@
 				"usage": 3.83
 			}
 		],
+		"usage": 0.15,
 		"moves": [
 			{
 				"key": "landswrath",
@@ -20351,23 +20059,22 @@
 				"usage": 8.04
 			},
 			{
+				"key": "",
+				"usage": 7.22
+			},
+			{
 				"key": "dragondance",
 				"usage": 6.81
 			},
 			{
 				"key": "rockslide",
 				"usage": 1.7
-			},
-			{
-				"key": "dracometeor",
-				"usage": 1.65
 			}
-		],
-		"rank": 83,
-		"usage": 0.15
+		]
 	},
 	"hydreigon": {
 		"name": "Hydreigon",
+		"rank": 84,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -20570,6 +20277,7 @@
 				"usage": 4.51
 			}
 		],
+		"usage": 0.15,
 		"moves": [
 			{
 				"key": "darkpulse",
@@ -20611,12 +20319,11 @@
 				"key": "taunt",
 				"usage": 6.83
 			}
-		],
-		"rank": 84,
-		"usage": 0.15
+		]
 	},
 	"wobbuffet": {
 		"name": "Wobbuffet",
+		"rank": 85,
 		"abilities": [
 			{
 				"key": "shadowtag",
@@ -20651,22 +20358,6 @@
 			{
 				"key": "redcard",
 				"usage": 0.45
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "ejectbutton",
-				"usage": 0
-			},
-			{
-				"key": "apicotberry",
-				"usage": 0
-			},
-			{
-				"key": "choicespecs",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -20770,14 +20461,14 @@
 				"usage": 0.05
 			},
 			{
-				"nature": "Bold",
-				"hp": 4,
+				"nature": "Sassy",
+				"hp": 252,
 				"atk": 0,
-				"def": 252,
+				"def": 172,
 				"spa": 0,
-				"spd": 252,
+				"spd": 84,
 				"spe": 0,
-				"key": "Bold:4/0/252/0/252/0",
+				"key": "Sassy:252/0/172/0/84/0",
 				"usage": 0.02
 			}
 		],
@@ -20823,6 +20514,7 @@
 				"usage": 2.43
 			}
 		],
+		"usage": 0.14,
 		"moves": [
 			{
 				"key": "encore",
@@ -20847,21 +20539,12 @@
 			{
 				"key": "destinybond",
 				"usage": 6.21
-			},
-			{
-				"key": "splash",
-				"usage": 0
-			},
-			{
-				"key": "other",
-				"usage": 0.0001
 			}
-		],
-		"rank": 85,
-		"usage": 0.14
+		]
 	},
 	"shiftry": {
 		"name": "Shiftry",
+		"rank": 86,
 		"abilities": [
 			{
 				"key": "chlorophyll",
@@ -20904,18 +20587,6 @@
 			{
 				"key": "sitrusberry",
 				"usage": 0.01
-			},
-			{
-				"key": "leftovers",
-				"usage": 0
-			},
-			{
-				"key": "toxicorb",
-				"usage": 0
-			},
-			{
-				"key": "choicespecs",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -21072,6 +20743,7 @@
 				"usage": 1.76
 			}
 		],
+		"usage": 0.14,
 		"moves": [
 			{
 				"key": "leafblade",
@@ -21113,12 +20785,11 @@
 				"key": "protect",
 				"usage": 2.08
 			}
-		],
-		"rank": 86,
-		"usage": 0.14
+		]
 	},
 	"heliolisk": {
 		"name": "Heliolisk",
+		"rank": 87,
 		"abilities": [
 			{
 				"key": "solarpower",
@@ -21329,6 +21000,7 @@
 				"usage": 1.46
 			}
 		],
+		"usage": 0.14,
 		"moves": [
 			{
 				"key": "protect",
@@ -21370,12 +21042,11 @@
 				"key": "glare",
 				"usage": 4.83
 			}
-		],
-		"rank": 87,
-		"usage": 0.14
+		]
 	},
 	"zekrom": {
 		"name": "Zekrom",
+		"rank": 88,
 		"abilities": [
 			{
 				"key": "teravolt",
@@ -21578,6 +21249,7 @@
 				"usage": 6.84
 			}
 		],
+		"usage": 0.13,
 		"moves": [
 			{
 				"key": "protect",
@@ -21619,12 +21291,11 @@
 				"key": "rocktomb",
 				"usage": 6.04
 			}
-		],
-		"rank": 88,
-		"usage": 0.13
+		]
 	},
 	"jellicent": {
 		"name": "Jellicent",
+		"rank": 89,
 		"abilities": [
 			{
 				"key": "waterabsorb",
@@ -21633,10 +21304,6 @@
 			{
 				"key": "cursedbody",
 				"usage": 15.85
-			},
-			{
-				"key": "damp",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -21835,6 +21502,7 @@
 				"usage": 2.48
 			}
 		],
+		"usage": 0.13,
 		"moves": [
 			{
 				"key": "scald",
@@ -21876,12 +21544,11 @@
 				"key": "waterspout",
 				"usage": 3.82
 			}
-		],
-		"rank": 89,
-		"usage": 0.13
+		]
 	},
 	"chansey": {
 		"name": "Chansey",
+		"rank": 90,
 		"abilities": [
 			{
 				"key": "healer",
@@ -21908,34 +21575,6 @@
 			{
 				"key": "assaultvest",
 				"usage": 0.01
-			},
-			{
-				"key": "leftovers",
-				"usage": 0
-			},
-			{
-				"key": "luckypunch",
-				"usage": 0
-			},
-			{
-				"key": "razorfang",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "quickclaw",
-				"usage": 0
-			},
-			{
-				"key": "chestoberry",
-				"usage": 0
-			},
-			{
-				"key": "sitrusberry",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -22092,6 +21731,7 @@
 				"usage": 1.67
 			}
 		],
+		"usage": 0.13,
 		"moves": [
 			{
 				"key": "thunderwave",
@@ -22133,12 +21773,11 @@
 				"key": "healbell",
 				"usage": 8.51
 			}
-		],
-		"rank": 90,
-		"usage": 0.13
+		]
 	},
 	"mantyke": {
 		"name": "Mantyke",
+		"rank": 91,
 		"abilities": [
 			{
 				"key": "waterabsorb",
@@ -22147,28 +21786,12 @@
 			{
 				"key": "swiftswim",
 				"usage": 1.49
-			},
-			{
-				"key": "waterveil",
-				"usage": 0
 			}
 		],
 		"items": [
 			{
 				"key": "eviolite",
 				"usage": 99.96
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "berryjuice",
-				"usage": 0
-			},
-			{
-				"key": "sitrusberry",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -22325,6 +21948,7 @@
 				"usage": 2.14
 			}
 		],
+		"usage": 0.13,
 		"moves": [
 			{
 				"key": "wideguard",
@@ -22366,12 +21990,11 @@
 				"key": "confuseray",
 				"usage": 0.07
 			}
-		],
-		"rank": 91,
-		"usage": 0.13
+		]
 	},
 	"lapras": {
 		"name": "Lapras",
+		"rank": 92,
 		"abilities": [
 			{
 				"key": "waterabsorb",
@@ -22416,11 +22039,11 @@
 				"usage": 0.11
 			},
 			{
-				"key": "lumberry",
+				"key": "waveincense",
 				"usage": 0.1
 			},
 			{
-				"key": "waveincense",
+				"key": "lumberry",
 				"usage": 0.1
 			},
 			{
@@ -22582,6 +22205,7 @@
 				"usage": 2.69
 			}
 		],
+		"usage": 0.12,
 		"moves": [
 			{
 				"key": "freezedry",
@@ -22623,12 +22247,11 @@
 				"key": "safeguard",
 				"usage": 5.15
 			}
-		],
-		"rank": 92,
-		"usage": 0.12
+		]
 	},
 	"milotic": {
 		"name": "Milotic",
+		"rank": 93,
 		"abilities": [
 			{
 				"key": "competitive",
@@ -22839,6 +22462,7 @@
 				"usage": 6.69
 			}
 		],
+		"usage": 0.11,
 		"moves": [
 			{
 				"key": "scald",
@@ -22880,12 +22504,11 @@
 				"key": "hiddenpowerelectric",
 				"usage": 3.44
 			}
-		],
-		"rank": 93,
-		"usage": 0.11
+		]
 	},
 	"walrein": {
 		"name": "Walrein",
+		"rank": 94,
 		"abilities": [
 			{
 				"key": "thickfat",
@@ -22894,10 +22517,6 @@
 			{
 				"key": "oblivious",
 				"usage": 0.49
-			},
-			{
-				"key": "icebody",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -22916,30 +22535,6 @@
 			{
 				"key": "chestoberry",
 				"usage": 0.02
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "choicescarf",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "expertbelt",
-				"usage": 0
-			},
-			{
-				"key": "choicespecs",
-				"usage": 0
-			},
-			{
-				"key": "nevermeltice",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -23041,17 +22636,6 @@
 				"spe": 0,
 				"key": "Bold:252/0/228/4/24/0",
 				"usage": 0.01
-			},
-			{
-				"nature": "Bold",
-				"hp": 252,
-				"atk": 0,
-				"def": 156,
-				"spa": 72,
-				"spd": 28,
-				"spe": 0,
-				"key": "Bold:252/0/156/72/28/0",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -23096,6 +22680,7 @@
 				"usage": 5.17
 			}
 		],
+		"usage": 0.11,
 		"moves": [
 			{
 				"key": "icywind",
@@ -23137,12 +22722,11 @@
 				"key": "roar",
 				"usage": 0.49
 			}
-		],
-		"rank": 94,
-		"usage": 0.11
+		]
 	},
 	"bisharp": {
 		"name": "Bisharp",
+		"rank": 95,
 		"abilities": [
 			{
 				"key": "defiant",
@@ -23353,6 +22937,7 @@
 				"usage": 2.87
 			}
 		],
+		"usage": 0.1,
 		"moves": [
 			{
 				"key": "ironhead",
@@ -23394,12 +22979,11 @@
 				"key": "quickguard",
 				"usage": 3.25
 			}
-		],
-		"rank": 95,
-		"usage": 0.1
+		]
 	},
 	"lopunnymega": {
 		"name": "Lopunny-Mega",
+		"rank": 96,
 		"abilities": [
 			{
 				"key": "scrappy",
@@ -23513,14 +23097,14 @@
 				"usage": 0.57
 			},
 			{
-				"nature": "Hasty",
-				"hp": 4,
+				"nature": "Jolly",
+				"hp": 0,
 				"atk": 252,
 				"def": 0,
 				"spa": 0,
-				"spd": 0,
+				"spd": 4,
 				"spe": 252,
-				"key": "Hasty:4/252/0/0/0/252",
+				"key": "Jolly:0/252/0/0/4/252",
 				"usage": 0.41
 			}
 		],
@@ -23566,6 +23150,7 @@
 				"usage": 1.54
 			}
 		],
+		"usage": 0.1,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -23607,12 +23192,11 @@
 				"key": "teeterdance",
 				"usage": 6.65
 			}
-		],
-		"rank": 96,
-		"usage": 0.1
+		]
 	},
 	"misdreavus": {
 		"name": "Misdreavus",
+		"rank": 97,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -23623,18 +23207,6 @@
 			{
 				"key": "eviolite",
 				"usage": 100
-			},
-			{
-				"key": "focussash",
-				"usage": 0
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -23714,39 +23286,6 @@
 				"spe": 180,
 				"key": "Timid:252/0/0/0/76/180",
 				"usage": 0.01
-			},
-			{
-				"nature": "Calm",
-				"hp": 252,
-				"atk": 0,
-				"def": 140,
-				"spa": 4,
-				"spd": 12,
-				"spe": 100,
-				"key": "Calm:252/0/140/4/12/100",
-				"usage": 0
-			},
-			{
-				"nature": "Calm",
-				"hp": 4,
-				"atk": 0,
-				"def": 252,
-				"spa": 0,
-				"spd": 252,
-				"spe": 0,
-				"key": "Calm:4/0/252/0/252/0",
-				"usage": 0
-			},
-			{
-				"nature": "Calm",
-				"hp": 204,
-				"atk": 0,
-				"def": 180,
-				"spa": 0,
-				"spd": 124,
-				"spe": 0,
-				"key": "Calm:204/0/180/0/124/0",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -23791,6 +23330,7 @@
 				"usage": 0.1
 			}
 		],
+		"usage": 0.1,
 		"moves": [
 			{
 				"key": "skillswap",
@@ -23832,12 +23372,11 @@
 				"key": "perishsong",
 				"usage": 0.14
 			}
-		],
-		"rank": 97,
-		"usage": 0.1
+		]
 	},
 	"houndoommega": {
 		"name": "Houndoom-Mega",
+		"rank": 98,
 		"abilities": [
 			{
 				"key": "solarpower",
@@ -23886,17 +23425,6 @@
 			},
 			{
 				"nature": "Timid",
-				"hp": 40,
-				"atk": 0,
-				"def": 4,
-				"spa": 208,
-				"spd": 0,
-				"spe": 252,
-				"key": "Timid:40/0/4/208/0/252",
-				"usage": 0.46
-			},
-			{
-				"nature": "Timid",
 				"hp": 0,
 				"atk": 0,
 				"def": 0,
@@ -23904,6 +23432,17 @@
 				"spd": 4,
 				"spe": 252,
 				"key": "Timid:0/0/0/252/4/252",
+				"usage": 0.46
+			},
+			{
+				"nature": "Timid",
+				"hp": 40,
+				"atk": 0,
+				"def": 4,
+				"spa": 208,
+				"spd": 0,
+				"spe": 252,
+				"key": "Timid:40/0/4/208/0/252",
 				"usage": 0.46
 			},
 			{
@@ -23929,17 +23468,6 @@
 				"usage": 0.07
 			},
 			{
-				"nature": "Modest",
-				"hp": 252,
-				"atk": 0,
-				"def": 0,
-				"spa": 252,
-				"spd": 0,
-				"spe": 4,
-				"key": "Modest:252/0/0/252/0/4",
-				"usage": 0.06
-			},
-			{
 				"nature": "Timid",
 				"hp": 28,
 				"atk": 0,
@@ -23948,6 +23476,17 @@
 				"spd": 0,
 				"spe": 228,
 				"key": "Timid:28/0/0/252/0/228",
+				"usage": 0.06
+			},
+			{
+				"nature": "Modest",
+				"hp": 252,
+				"atk": 0,
+				"def": 0,
+				"spa": 252,
+				"spd": 0,
+				"spe": 4,
+				"key": "Modest:252/0/0/252/0/4",
 				"usage": 0.06
 			},
 			{
@@ -24004,6 +23543,7 @@
 				"usage": 8.21
 			}
 		],
+		"usage": 0.09,
 		"moves": [
 			{
 				"key": "darkpulse",
@@ -24045,12 +23585,11 @@
 				"key": "roleplay",
 				"usage": 1.22
 			}
-		],
-		"rank": 98,
-		"usage": 0.09
+		]
 	},
 	"cherrim": {
 		"name": "Cherrim",
+		"rank": 99,
 		"abilities": [
 			{
 				"key": "flowergift",
@@ -24083,20 +23622,12 @@
 				"usage": 0.03
 			},
 			{
-				"key": "laxincense",
-				"usage": 0.01
-			},
-			{
 				"key": "heatrock",
 				"usage": 0.01
 			},
 			{
-				"key": "occaberry",
-				"usage": 0
-			},
-			{
-				"key": "absorbbulb",
-				"usage": 0
+				"key": "laxincense",
+				"usage": 0.01
 			}
 		],
 		"spreads": [
@@ -24253,6 +23784,7 @@
 				"usage": 2.73
 			}
 		],
+		"usage": 0.09,
 		"moves": [
 			{
 				"key": "helpinghand",
@@ -24294,12 +23826,11 @@
 				"key": "healingwish",
 				"usage": 3.59
 			}
-		],
-		"rank": 99,
-		"usage": 0.09
+		]
 	},
 	"latios": {
 		"name": "Latios",
+		"rank": 100,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -24502,6 +24033,7 @@
 				"usage": 1.33
 			}
 		],
+		"usage": 0.09,
 		"moves": [
 			{
 				"key": "dracometeor",
@@ -24543,12 +24075,11 @@
 				"key": "memento",
 				"usage": 10.19
 			}
-		],
-		"rank": 100,
-		"usage": 0.09
+		]
 	},
 	"krookodile": {
 		"name": "Krookodile",
+		"rank": 101,
 		"abilities": [
 			{
 				"key": "intimidate",
@@ -24599,10 +24130,6 @@
 			{
 				"key": "leftovers",
 				"usage": 0.01
-			},
-			{
-				"key": "expertbelt",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -24751,14 +24278,15 @@
 				"usage": 7.84
 			},
 			{
-				"key": "Escavalier",
+				"key": "Ampharos-Mega",
 				"usage": 0.89
 			},
 			{
-				"key": "Ampharos-Mega",
+				"key": "Escavalier",
 				"usage": 0.89
 			}
 		],
+		"usage": 0.08,
 		"moves": [
 			{
 				"key": "earthquake",
@@ -24800,12 +24328,11 @@
 				"key": "snarl",
 				"usage": 0.44
 			}
-		],
-		"rank": 101,
-		"usage": 0.08
+		]
 	},
 	"lucariomega": {
 		"name": "Lucario-Mega",
+		"rank": 102,
 		"abilities": [
 			{
 				"key": "adaptability",
@@ -24972,6 +24499,7 @@
 				"usage": 6.34
 			}
 		],
+		"usage": 0.08,
 		"moves": [
 			{
 				"key": "protect",
@@ -25013,12 +24541,11 @@
 				"key": "aurasphere",
 				"usage": 15.89
 			}
-		],
-		"rank": 102,
-		"usage": 0.08
+		]
 	},
 	"latias": {
 		"name": "Latias",
+		"rank": 103,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -25221,6 +24748,7 @@
 				"usage": 4.38
 			}
 		],
+		"usage": 0.08,
 		"moves": [
 			{
 				"key": "dracometeor",
@@ -25262,12 +24790,11 @@
 				"key": "swagger",
 				"usage": 7.75
 			}
-		],
-		"rank": 103,
-		"usage": 0.08
+		]
 	},
 	"swampert": {
 		"name": "Swampert",
+		"rank": 104,
 		"abilities": [
 			{
 				"key": "damp",
@@ -25474,6 +25001,7 @@
 				"usage": 1.05
 			}
 		],
+		"usage": 0.08,
 		"moves": [
 			{
 				"key": "earthpower",
@@ -25515,12 +25043,11 @@
 				"key": "roar",
 				"usage": 0.71
 			}
-		],
-		"rank": 104,
-		"usage": 0.08
+		]
 	},
 	"tornadus": {
 		"name": "Tornadus",
+		"rank": 105,
 		"abilities": [
 			{
 				"key": "prankster",
@@ -25565,7 +25092,7 @@
 				"usage": 0.02
 			},
 			{
-				"key": "chestoberry",
+				"key": "focusband",
 				"usage": 0.01
 			}
 		],
@@ -25723,6 +25250,7 @@
 				"usage": 5.54
 			}
 		],
+		"usage": 0.08,
 		"moves": [
 			{
 				"key": "taunt",
@@ -25764,12 +25292,11 @@
 				"key": "sludgebomb",
 				"usage": 4.9
 			}
-		],
-		"rank": 105,
-		"usage": 0.08
+		]
 	},
 	"lilligant": {
 		"name": "Lilligant",
+		"rank": 106,
 		"abilities": [
 			{
 				"key": "chlorophyll",
@@ -25778,10 +25305,6 @@
 			{
 				"key": "owntempo",
 				"usage": 0.01
-			},
-			{
-				"key": "leafguard",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -25820,10 +25343,6 @@
 			{
 				"key": "nothing",
 				"usage": 0.01
-			},
-			{
-				"key": "belueberry",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -25980,6 +25499,7 @@
 				"usage": 0.62
 			}
 		],
+		"usage": 0.08,
 		"moves": [
 			{
 				"key": "protect",
@@ -26021,12 +25541,11 @@
 				"key": "quiverdance",
 				"usage": 0.68
 			}
-		],
-		"rank": 106,
-		"usage": 0.08
+		]
 	},
 	"salamence": {
 		"name": "Salamence",
+		"rank": 107,
 		"abilities": [
 			{
 				"key": "intimidate",
@@ -26233,6 +25752,7 @@
 				"usage": 8.13
 			}
 		],
+		"usage": 0.08,
 		"moves": [
 			{
 				"key": "dracometeor",
@@ -26274,12 +25794,11 @@
 				"key": "rockslide",
 				"usage": 7.02
 			}
-		],
-		"rank": 107,
-		"usage": 0.08
+		]
 	},
 	"klefki": {
 		"name": "Klefki",
+		"rank": 108,
 		"abilities": [
 			{
 				"key": "prankster",
@@ -26482,6 +26001,7 @@
 				"usage": 3.91
 			}
 		],
+		"usage": 0.08,
 		"moves": [
 			{
 				"key": "thunderwave",
@@ -26523,12 +26043,11 @@
 				"key": "magicroom",
 				"usage": 8.8
 			}
-		],
-		"rank": 108,
-		"usage": 0.08
+		]
 	},
 	"dragonite": {
 		"name": "Dragonite",
+		"rank": 109,
 		"abilities": [
 			{
 				"key": "multiscale",
@@ -26735,6 +26254,7 @@
 				"usage": 4.16
 			}
 		],
+		"usage": 0.08,
 		"moves": [
 			{
 				"key": "protect",
@@ -26776,12 +26296,11 @@
 				"key": "firepunch",
 				"usage": 12.59
 			}
-		],
-		"rank": 109,
-		"usage": 0.08
+		]
 	},
 	"abomasnow": {
 		"name": "Abomasnow",
+		"rank": 110,
 		"abilities": [
 			{
 				"key": "snowwarning",
@@ -26816,22 +26335,6 @@
 			{
 				"key": "lumberry",
 				"usage": 0.01
-			},
-			{
-				"key": "lifeorb",
-				"usage": 0
-			},
-			{
-				"key": "nevermeltice",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "quickclaw",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -26988,6 +26491,7 @@
 				"usage": 0.58
 			}
 		],
+		"usage": 0.08,
 		"moves": [
 			{
 				"key": "blizzard",
@@ -27004,6 +26508,10 @@
 			{
 				"key": "grassknot",
 				"usage": 96.67
+			},
+			{
+				"key": "",
+				"usage": 3.38
 			},
 			{
 				"key": "avalanche",
@@ -27024,17 +26532,12 @@
 			{
 				"key": "gigadrain",
 				"usage": 0.81
-			},
-			{
-				"key": "hiddenpowerfire",
-				"usage": 0.46
 			}
-		],
-		"rank": 110,
-		"usage": 0.08
+		]
 	},
 	"rayquaza": {
 		"name": "Rayquaza",
+		"rank": 111,
 		"abilities": [
 			{
 				"key": "airlock",
@@ -27079,7 +26582,7 @@
 				"usage": 0.03
 			},
 			{
-				"key": "scopelens",
+				"key": "expertbelt",
 				"usage": 0.01
 			}
 		],
@@ -27237,6 +26740,7 @@
 				"usage": 3.35
 			}
 		],
+		"usage": 0.08,
 		"moves": [
 			{
 				"key": "protect",
@@ -27275,15 +26779,14 @@
 				"usage": 8.74
 			},
 			{
-				"key": "icebeam",
-				"usage": 7.79
+				"key": "",
+				"usage": 8.37
 			}
-		],
-		"rank": 111,
-		"usage": 0.08
+		]
 	},
 	"altariamega": {
 		"name": "Altaria-Mega",
+		"rank": 112,
 		"abilities": [
 			{
 				"key": "pixilate",
@@ -27386,17 +26889,6 @@
 				"usage": 2.24
 			},
 			{
-				"nature": "Modest",
-				"hp": 252,
-				"atk": 0,
-				"def": 4,
-				"spa": 238,
-				"spd": 12,
-				"spe": 4,
-				"key": "Modest:252/0/4/238/12/4",
-				"usage": 2.03
-			},
-			{
 				"nature": "Hardy",
 				"hp": 189,
 				"atk": 0,
@@ -27405,6 +26897,17 @@
 				"spd": 4,
 				"spe": 189,
 				"key": "Hardy:189/0/0/126/4/189",
+				"usage": 2.03
+			},
+			{
+				"nature": "Modest",
+				"hp": 252,
+				"atk": 0,
+				"def": 4,
+				"spa": 238,
+				"spd": 12,
+				"spe": 4,
+				"key": "Modest:252/0/4/238/12/4",
 				"usage": 2.03
 			}
 		],
@@ -27450,6 +26953,7 @@
 				"usage": 4.61
 			}
 		],
+		"usage": 0.07,
 		"moves": [
 			{
 				"key": "hypervoice",
@@ -27491,12 +26995,11 @@
 				"key": "psychup",
 				"usage": 8.77
 			}
-		],
-		"rank": 112,
-		"usage": 0.07
+		]
 	},
 	"dusclops": {
 		"name": "Dusclops",
+		"rank": 113,
 		"abilities": [
 			{
 				"key": "frisk",
@@ -27515,38 +27018,6 @@
 			{
 				"key": "leftovers",
 				"usage": 0.01
-			},
-			{
-				"key": "choicespecs",
-				"usage": 0
-			},
-			{
-				"key": "mentalherb",
-				"usage": 0
-			},
-			{
-				"key": "chestoberry",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "babiriberry",
-				"usage": 0
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "sitrusberry",
-				"usage": 0
-			},
-			{
-				"key": "lumberry",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -27703,6 +27174,7 @@
 				"usage": 7.33
 			}
 		],
+		"usage": 0.07,
 		"moves": [
 			{
 				"key": "trickroom",
@@ -27744,12 +27216,11 @@
 				"key": "hex",
 				"usage": 8.83
 			}
-		],
-		"rank": 113,
-		"usage": 0.07
+		]
 	},
 	"snorlax": {
 		"name": "Snorlax",
+		"rank": 114,
 		"abilities": [
 			{
 				"key": "gluttony",
@@ -27960,6 +27431,7 @@
 				"usage": 7.66
 			}
 		],
+		"usage": 0.07,
 		"moves": [
 			{
 				"key": "bellydrum",
@@ -28001,12 +27473,11 @@
 				"key": "crunch",
 				"usage": 4.55
 			}
-		],
-		"rank": 114,
-		"usage": 0.07
+		]
 	},
 	"persian": {
 		"name": "Persian",
+		"rank": 115,
 		"abilities": [
 			{
 				"key": "unnerve",
@@ -28015,10 +27486,6 @@
 			{
 				"key": "technician",
 				"usage": 24.57
-			},
-			{
-				"key": "limber",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -28049,18 +27516,6 @@
 			{
 				"key": "sitrusberry",
 				"usage": 0.07
-			},
-			{
-				"key": "choicespecs",
-				"usage": 0
-			},
-			{
-				"key": "powerherb",
-				"usage": 0
-			},
-			{
-				"key": "widelens",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -28140,39 +27595,6 @@
 				"spe": 252,
 				"key": "Jolly:6/252/0/0/0/252",
 				"usage": 0.07
-			},
-			{
-				"nature": "Jolly",
-				"hp": 4,
-				"atk": 0,
-				"def": 252,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Jolly:4/0/252/0/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Jolly",
-				"hp": 0,
-				"atk": 252,
-				"def": 4,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Jolly:0/252/4/0/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Modest",
-				"hp": 156,
-				"atk": 0,
-				"def": 0,
-				"spa": 252,
-				"spd": 0,
-				"spe": 100,
-				"key": "Modest:156/0/0/252/0/100",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -28217,6 +27639,7 @@
 				"usage": 0.34
 			}
 		],
+		"usage": 0.07,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -28258,12 +27681,11 @@
 				"key": "facade",
 				"usage": 3.93
 			}
-		],
-		"rank": 115,
-		"usage": 0.07
+		]
 	},
 	"mewtwomegax": {
 		"name": "Mewtwo-Mega-X",
+		"rank": 116,
 		"abilities": [
 			{
 				"key": "steadfast",
@@ -28430,6 +27852,7 @@
 				"usage": 7.89
 			}
 		],
+		"usage": 0.06,
 		"moves": [
 			{
 				"key": "protect",
@@ -28471,12 +27894,11 @@
 				"key": "poisonjab",
 				"usage": 13.37
 			}
-		],
-		"rank": 116,
-		"usage": 0.06
+		]
 	},
 	"charizardmegay": {
 		"name": "Charizard-Mega-Y",
+		"rank": 117,
 		"abilities": [
 			{
 				"key": "drought",
@@ -28643,6 +28065,7 @@
 				"usage": 7.94
 			}
 		],
+		"usage": 0.06,
 		"moves": [
 			{
 				"key": "protect",
@@ -28684,12 +28107,11 @@
 				"key": "tailwind",
 				"usage": 6.32
 			}
-		],
-		"rank": 117,
-		"usage": 0.06
+		]
 	},
 	"volcarona": {
 		"name": "Volcarona",
+		"rank": 118,
 		"abilities": [
 			{
 				"key": "flamebody",
@@ -28738,7 +28160,7 @@
 				"usage": 0.27
 			},
 			{
-				"key": "wiseglasses",
+				"key": "airballoon",
 				"usage": 0.02
 			}
 		],
@@ -28896,6 +28318,7 @@
 				"usage": 6.8
 			}
 		],
+		"usage": 0.06,
 		"moves": [
 			{
 				"key": "ragepowder",
@@ -28937,12 +28360,11 @@
 				"key": "flamethrower",
 				"usage": 14.09
 			}
-		],
-		"rank": 118,
-		"usage": 0.06
+		]
 	},
 	"seismitoad": {
 		"name": "Seismitoad",
+		"rank": 119,
 		"abilities": [
 			{
 				"key": "waterabsorb",
@@ -28993,10 +28415,6 @@
 			{
 				"key": "earthplate",
 				"usage": 0.02
-			},
-			{
-				"key": "liechiberry",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -29153,6 +28571,7 @@
 				"usage": 0.15
 			}
 		],
+		"usage": 0.06,
 		"moves": [
 			{
 				"key": "earthpower",
@@ -29179,11 +28598,11 @@
 				"usage": 3.43
 			},
 			{
-				"key": "rest",
+				"key": "sleeptalk",
 				"usage": 0.87
 			},
 			{
-				"key": "sleeptalk",
+				"key": "rest",
 				"usage": 0.87
 			},
 			{
@@ -29194,12 +28613,11 @@
 				"key": "knockoff",
 				"usage": 0.31
 			}
-		],
-		"rank": 119,
-		"usage": 0.06
+		]
 	},
 	"garchomp": {
 		"name": "Garchomp",
+		"rank": 120,
 		"abilities": [
 			{
 				"key": "roughskin",
@@ -29406,6 +28824,7 @@
 				"usage": 7.22
 			}
 		],
+		"usage": 0.06,
 		"moves": [
 			{
 				"key": "earthquake",
@@ -29422,6 +28841,10 @@
 			{
 				"key": "dragonclaw",
 				"usage": 50.34
+			},
+			{
+				"key": "",
+				"usage": 42.67
 			},
 			{
 				"key": "ironhead",
@@ -29442,17 +28865,12 @@
 			{
 				"key": "poisonjab",
 				"usage": 6.98
-			},
-			{
-				"key": "dracometeor",
-				"usage": 4.8
 			}
-		],
-		"rank": 120,
-		"usage": 0.06
+		]
 	},
 	"drifblim": {
 		"name": "Drifblim",
+		"rank": 121,
 		"abilities": [
 			{
 				"key": "unburden",
@@ -29503,10 +28921,6 @@
 			{
 				"key": "choicescarf",
 				"usage": 0.01
-			},
-			{
-				"key": "damprock",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -29659,10 +29073,11 @@
 				"usage": 0.32
 			},
 			{
-				"key": "Gliscor",
+				"key": "Lugia",
 				"usage": 0.28
 			}
 		],
+		"usage": 0.06,
 		"moves": [
 			{
 				"key": "tailwind",
@@ -29673,11 +29088,11 @@
 				"usage": 81.19
 			},
 			{
-				"key": "haze",
+				"key": "weatherball",
 				"usage": 81.06
 			},
 			{
-				"key": "weatherball",
+				"key": "haze",
 				"usage": 81.06
 			},
 			{
@@ -29704,12 +29119,11 @@
 				"key": "destinybond",
 				"usage": 0.42
 			}
-		],
-		"rank": 121,
-		"usage": 0.06
+		]
 	},
 	"conkeldurr": {
 		"name": "Conkeldurr",
+		"rank": 122,
 		"abilities": [
 			{
 				"key": "guts",
@@ -29754,11 +29168,11 @@
 				"usage": 0.82
 			},
 			{
-				"key": "lumberry",
+				"key": "safetygoggles",
 				"usage": 0.81
 			},
 			{
-				"key": "safetygoggles",
+				"key": "lumberry",
 				"usage": 0.81
 			},
 			{
@@ -29920,6 +29334,7 @@
 				"usage": 9.14
 			}
 		],
+		"usage": 0.06,
 		"moves": [
 			{
 				"key": "machpunch",
@@ -29946,6 +29361,10 @@
 				"usage": 20.04
 			},
 			{
+				"key": "",
+				"usage": 12.94
+			},
+			{
 				"key": "firepunch",
 				"usage": 10.78
 			},
@@ -29956,17 +29375,12 @@
 			{
 				"key": "dynamicpunch",
 				"usage": 9.25
-			},
-			{
-				"key": "rockslide",
-				"usage": 8.49
 			}
-		],
-		"rank": 122,
-		"usage": 0.06
+		]
 	},
 	"lugia": {
 		"name": "Lugia",
+		"rank": 123,
 		"abilities": [
 			{
 				"key": "pressure",
@@ -30149,11 +29563,11 @@
 				"usage": 9.44
 			},
 			{
-				"key": "Umbreon",
+				"key": "Lucario",
 				"usage": 8.91
 			},
 			{
-				"key": "Lucario",
+				"key": "Umbreon",
 				"usage": 8.91
 			},
 			{
@@ -30169,6 +29583,7 @@
 				"usage": 8.17
 			}
 		],
+		"usage": 0.06,
 		"moves": [
 			{
 				"key": "aeroblast",
@@ -30210,12 +29625,11 @@
 				"key": "psychic",
 				"usage": 12.23
 			}
-		],
-		"rank": 123,
-		"usage": 0.06
+		]
 	},
 	"aromatisse": {
 		"name": "Aromatisse",
+		"rank": 124,
 		"abilities": [
 			{
 				"key": "aromaveil",
@@ -30422,6 +29836,7 @@
 				"usage": 4.3
 			}
 		],
+		"usage": 0.06,
 		"moves": [
 			{
 				"key": "trickroom",
@@ -30463,12 +29878,11 @@
 				"key": "dazzlinggleam",
 				"usage": 4.96
 			}
-		],
-		"rank": 124,
-		"usage": 0.06
+		]
 	},
 	"giratina": {
 		"name": "Giratina",
+		"rank": 125,
 		"abilities": [
 			{
 				"key": "pressure",
@@ -30675,6 +30089,7 @@
 				"usage": 4.39
 			}
 		],
+		"usage": 0.06,
 		"moves": [
 			{
 				"key": "shadowforce",
@@ -30716,12 +30131,11 @@
 				"key": "hex",
 				"usage": 11.39
 			}
-		],
-		"rank": 125,
-		"usage": 0.06
+		]
 	},
 	"noivern": {
 		"name": "Noivern",
+		"rank": 126,
 		"abilities": [
 			{
 				"key": "frisk",
@@ -30932,6 +30346,7 @@
 				"usage": 3.46
 			}
 		],
+		"usage": 0.05,
 		"moves": [
 			{
 				"key": "dracometeor",
@@ -30973,12 +30388,11 @@
 				"key": "flamethrower",
 				"usage": 3.66
 			}
-		],
-		"rank": 126,
-		"usage": 0.05
+		]
 	},
 	"hawlucha": {
 		"name": "Hawlucha",
+		"rank": 127,
 		"abilities": [
 			{
 				"key": "unburden",
@@ -31189,6 +30603,7 @@
 				"usage": 4.19
 			}
 		],
+		"usage": 0.05,
 		"moves": [
 			{
 				"key": "quickguard",
@@ -31230,12 +30645,11 @@
 				"key": "acrobatics",
 				"usage": 4.05
 			}
-		],
-		"rank": 127,
-		"usage": 0.05
+		]
 	},
 	"tauros": {
 		"name": "Tauros",
+		"rank": 128,
 		"abilities": [
 			{
 				"key": "intimidate",
@@ -31280,11 +30694,11 @@
 				"usage": 0.15
 			},
 			{
-				"key": "salacberry",
+				"key": "nothing",
 				"usage": 0.02
 			},
 			{
-				"key": "nothing",
+				"key": "salacberry",
 				"usage": 0.02
 			},
 			{
@@ -31369,39 +30783,6 @@
 				"spe": 252,
 				"key": "Naive:0/4/0/252/0/252",
 				"usage": 0.01
-			},
-			{
-				"nature": "Careful",
-				"hp": 0,
-				"atk": 252,
-				"def": 252,
-				"spa": 0,
-				"spd": 0,
-				"spe": 0,
-				"key": "Careful:0/252/252/0/0/0",
-				"usage": 0
-			},
-			{
-				"nature": "Jolly",
-				"hp": 140,
-				"atk": 108,
-				"def": 4,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Jolly:140/108/4/0/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Hardy",
-				"hp": 252,
-				"atk": 4,
-				"def": 252,
-				"spa": 0,
-				"spd": 0,
-				"spe": 0,
-				"key": "Hardy:252/4/252/0/0/0",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -31446,6 +30827,7 @@
 				"usage": 11.33
 			}
 		],
+		"usage": 0.05,
 		"moves": [
 			{
 				"key": "return",
@@ -31476,23 +30858,22 @@
 				"usage": 17.88
 			},
 			{
-				"key": "attract",
+				"key": "swagger",
 				"usage": 1.57
 			},
 			{
-				"key": "swagger",
+				"key": "attract",
 				"usage": 1.57
 			},
 			{
 				"key": "sleeptalk",
 				"usage": 0.59
 			}
-		],
-		"rank": 128,
-		"usage": 0.05
+		]
 	},
 	"landorus": {
 		"name": "Landorus",
+		"rank": 129,
 		"abilities": [
 			{
 				"key": "sandforce",
@@ -31535,10 +30916,6 @@
 			{
 				"key": "yacheberry",
 				"usage": 0.02
-			},
-			{
-				"key": "quickclaw",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -31695,6 +31072,7 @@
 				"usage": 3.31
 			}
 		],
+		"usage": 0.05,
 		"moves": [
 			{
 				"key": "earthpower",
@@ -31736,12 +31114,11 @@
 				"key": "roleplay",
 				"usage": 4.91
 			}
-		],
-		"rank": 129,
-		"usage": 0.05
+		]
 	},
 	"clefable": {
 		"name": "Clefable",
+		"rank": 130,
 		"abilities": [
 			{
 				"key": "unaware",
@@ -31952,6 +31329,7 @@
 				"usage": 3.15
 			}
 		],
+		"usage": 0.05,
 		"moves": [
 			{
 				"key": "followme",
@@ -31993,12 +31371,11 @@
 				"key": "moonlight",
 				"usage": 11.08
 			}
-		],
-		"rank": 130,
-		"usage": 0.05
+		]
 	},
 	"medichammega": {
 		"name": "Medicham-Mega",
+		"rank": 131,
 		"abilities": [
 			{
 				"key": "purepower",
@@ -32165,6 +31542,7 @@
 				"usage": 1.8
 			}
 		],
+		"usage": 0.05,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -32206,12 +31584,11 @@
 				"key": "protect",
 				"usage": 6.16
 			}
-		],
-		"rank": 131,
-		"usage": 0.05
+		]
 	},
 	"thundurustherian": {
 		"name": "Thundurus-Therian",
+		"rank": 132,
 		"abilities": [
 			{
 				"key": "voltabsorb",
@@ -32414,6 +31791,7 @@
 				"usage": 7.6
 			}
 		],
+		"usage": 0.05,
 		"moves": [
 			{
 				"key": "hiddenpowerice",
@@ -32455,12 +31833,11 @@
 				"key": "voltswitch",
 				"usage": 22.6
 			}
-		],
-		"rank": 132,
-		"usage": 0.05
+		]
 	},
 	"tyranitar": {
 		"name": "Tyranitar",
+		"rank": 133,
 		"abilities": [
 			{
 				"key": "sandstream",
@@ -32667,6 +32044,7 @@
 				"usage": 6.42
 			}
 		],
+		"usage": 0.05,
 		"moves": [
 			{
 				"key": "rockslide",
@@ -32708,24 +32086,15 @@
 				"key": "assurance",
 				"usage": 16.36
 			}
-		],
-		"rank": 133,
-		"usage": 0.05
+		]
 	},
 	"malamar": {
 		"name": "Malamar",
+		"rank": 134,
 		"abilities": [
 			{
 				"key": "contrary",
 				"usage": 100
-			},
-			{
-				"key": "suctioncups",
-				"usage": 0
-			},
-			{
-				"key": "infiltrator",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -32924,6 +32293,7 @@
 				"usage": 3.72
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "superpower",
@@ -32965,12 +32335,11 @@
 				"key": "taunt",
 				"usage": 0.22
 			}
-		],
-		"rank": 134,
-		"usage": 0.04
+		]
 	},
 	"regigigas": {
 		"name": "Regigigas",
+		"rank": 135,
 		"abilities": [
 			{
 				"key": "slowstart",
@@ -33173,6 +32542,7 @@
 				"usage": 0.93
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "wideguard",
@@ -33214,12 +32584,11 @@
 				"key": "earthquake",
 				"usage": 2.34
 			}
-		],
-		"rank": 135,
-		"usage": 0.04
+		]
 	},
 	"toxicroak": {
 		"name": "Toxicroak",
+		"rank": 136,
 		"abilities": [
 			{
 				"key": "poisontouch",
@@ -33430,6 +32799,7 @@
 				"usage": 4.65
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -33471,12 +32841,11 @@
 				"key": "drainpunch",
 				"usage": 4.74
 			}
-		],
-		"rank": 136,
-		"usage": 0.04
+		]
 	},
 	"rhyperior": {
 		"name": "Rhyperior",
+		"rank": 137,
 		"abilities": [
 			{
 				"key": "lightningrod",
@@ -33521,7 +32890,7 @@
 				"usage": 0.06
 			},
 			{
-				"key": "leftovers",
+				"key": "zoomlens",
 				"usage": 0.03
 			},
 			{
@@ -33529,7 +32898,7 @@
 				"usage": 0.03
 			},
 			{
-				"key": "zoomlens",
+				"key": "leftovers",
 				"usage": 0.03
 			}
 		],
@@ -33687,6 +33056,7 @@
 				"usage": 3.79
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "rockslide",
@@ -33728,12 +33098,11 @@
 				"key": "ironhead",
 				"usage": 4.26
 			}
-		],
-		"rank": 137,
-		"usage": 0.04
+		]
 	},
 	"ambipom": {
 		"name": "Ambipom",
+		"rank": 138,
 		"abilities": [
 			{
 				"key": "technician",
@@ -33944,6 +33313,7 @@
 				"usage": 5.42
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -33966,6 +33336,10 @@
 				"usage": 19.15
 			},
 			{
+				"key": "",
+				"usage": 14.62
+			},
+			{
 				"key": "knockoff",
 				"usage": 10.68
 			},
@@ -33980,17 +33354,12 @@
 			{
 				"key": "uturn",
 				"usage": 5.24
-			},
-			{
-				"key": "taunt",
-				"usage": 2.32
 			}
-		],
-		"rank": 138,
-		"usage": 0.04
+		]
 	},
 	"kyuremblack": {
 		"name": "Kyurem-Black",
+		"rank": 139,
 		"abilities": [
 			{
 				"key": "teravolt",
@@ -34193,6 +33562,7 @@
 				"usage": 6.08
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "fusionbolt",
@@ -34234,12 +33604,11 @@
 				"key": "freezeshock",
 				"usage": 9.77
 			}
-		],
-		"rank": 139,
-		"usage": 0.04
+		]
 	},
 	"electivire": {
 		"name": "Electivire",
+		"rank": 140,
 		"abilities": [
 			{
 				"key": "vitalspirit",
@@ -34446,6 +33815,7 @@
 				"usage": 10.44
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "wildcharge",
@@ -34487,12 +33857,11 @@
 				"key": "taunt",
 				"usage": 2.81
 			}
-		],
-		"rank": 140,
-		"usage": 0.04
+		]
 	},
 	"swampertmega": {
 		"name": "Swampert-Mega",
+		"rank": 141,
 		"abilities": [
 			{
 				"key": "swiftswim",
@@ -34659,6 +34028,7 @@
 				"usage": 7.5
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "earthquake",
@@ -34700,24 +34070,15 @@
 				"key": "outrage",
 				"usage": 2.99
 			}
-		],
-		"rank": 141,
-		"usage": 0.04
+		]
 	},
 	"xatu": {
 		"name": "Xatu",
+		"rank": 142,
 		"abilities": [
 			{
 				"key": "magicbounce",
 				"usage": 99.87
-			},
-			{
-				"key": "synchronize",
-				"usage": 0
-			},
-			{
-				"key": "earlybird",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -34748,18 +34109,6 @@
 			{
 				"key": "ejectbutton",
 				"usage": 0.01
-			},
-			{
-				"key": "starfberry",
-				"usage": 0
-			},
-			{
-				"key": "choicespecs",
-				"usage": 0
-			},
-			{
-				"key": "widelens",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -34852,17 +34201,6 @@
 				"usage": 0.13
 			},
 			{
-				"nature": "Bold",
-				"hp": 252,
-				"atk": 0,
-				"def": 252,
-				"spa": 0,
-				"spd": 0,
-				"spe": 0,
-				"key": "Bold:252/0/252/0/0/0",
-				"usage": 0.11
-			},
-			{
 				"nature": "Jolly",
 				"hp": 244,
 				"atk": 12,
@@ -34871,6 +34209,17 @@
 				"spd": 0,
 				"spe": 252,
 				"key": "Jolly:244/12/0/0/0/252",
+				"usage": 0.11
+			},
+			{
+				"nature": "Bold",
+				"hp": 252,
+				"atk": 0,
+				"def": 252,
+				"spa": 0,
+				"spd": 0,
+				"spe": 0,
+				"key": "Bold:252/0/252/0/0/0",
 				"usage": 0.11
 			}
 		],
@@ -34916,6 +34265,7 @@
 				"usage": 1.06
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "skillswap",
@@ -34946,23 +34296,22 @@
 				"usage": 26.9
 			},
 			{
-				"key": "uturn",
+				"key": "confuseray",
 				"usage": 4.9
 			},
 			{
-				"key": "confuseray",
+				"key": "uturn",
 				"usage": 4.9
 			},
 			{
 				"key": "dazzlinggleam",
 				"usage": 1.46
 			}
-		],
-		"rank": 142,
-		"usage": 0.04
+		]
 	},
 	"alakazam": {
 		"name": "Alakazam",
+		"rank": 143,
 		"abilities": [
 			{
 				"key": "innerfocus",
@@ -35173,6 +34522,7 @@
 				"usage": 3.93
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "encore",
@@ -35214,12 +34564,11 @@
 				"key": "trick",
 				"usage": 16.15
 			}
-		],
-		"rank": 143,
-		"usage": 0.04
+		]
 	},
 	"lucario": {
 		"name": "Lucario",
+		"rank": 144,
 		"abilities": [
 			{
 				"key": "innerfocus",
@@ -35430,6 +34779,7 @@
 				"usage": 6.74
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "closecombat",
@@ -35471,12 +34821,11 @@
 				"key": "finalgambit",
 				"usage": 7.25
 			}
-		],
-		"rank": 144,
-		"usage": 0.04
+		]
 	},
 	"azelf": {
 		"name": "Azelf",
+		"rank": 145,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -35519,10 +34868,6 @@
 			{
 				"key": "choicescarf",
 				"usage": 0.01
-			},
-			{
-				"key": "quickclaw",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -35679,6 +35024,7 @@
 				"usage": 0.59
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "explosion",
@@ -35720,12 +35066,11 @@
 				"key": "zenheadbutt",
 				"usage": 11.07
 			}
-		],
-		"rank": 145,
-		"usage": 0.04
+		]
 	},
 	"shuckle": {
 		"name": "Shuckle",
+		"rank": 146,
 		"abilities": [
 			{
 				"key": "sturdy",
@@ -35908,11 +35253,11 @@
 				"usage": 68.8
 			},
 			{
-				"key": "Linoone",
+				"key": "Gourgeist-Small",
 				"usage": 68.61
 			},
 			{
-				"key": "Gourgeist-Small",
+				"key": "Linoone",
 				"usage": 68.61
 			},
 			{
@@ -35936,6 +35281,7 @@
 				"usage": 2.17
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "protect",
@@ -35977,12 +35323,11 @@
 				"key": "shellsmash",
 				"usage": 6.35
 			}
-		],
-		"rank": 146,
-		"usage": 0.04
+		]
 	},
 	"cofagrigus": {
 		"name": "Cofagrigus",
+		"rank": 147,
 		"abilities": [
 			{
 				"key": "mummy",
@@ -36185,6 +35530,7 @@
 				"usage": 4.15
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "trickroom",
@@ -36226,12 +35572,11 @@
 				"key": "willowisp",
 				"usage": 18.86
 			}
-		],
-		"rank": 147,
-		"usage": 0.04
+		]
 	},
 	"vaporeon": {
 		"name": "Vaporeon",
+		"rank": 148,
 		"abilities": [
 			{
 				"key": "waterabsorb",
@@ -36438,6 +35783,7 @@
 				"usage": 0.69
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "scald",
@@ -36479,12 +35825,11 @@
 				"key": "healbell",
 				"usage": 0.86
 			}
-		],
-		"rank": 148,
-		"usage": 0.04
+		]
 	},
 	"pikachu": {
 		"name": "Pikachu",
+		"rank": 149,
 		"abilities": [
 			{
 				"key": "lightningrod",
@@ -36531,10 +35876,6 @@
 			{
 				"key": "airballoon",
 				"usage": 0.02
-			},
-			{
-				"key": "gripclaw",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -36691,6 +36032,7 @@
 				"usage": 1.72
 			}
 		],
+		"usage": 0.04,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -36732,12 +36074,11 @@
 				"key": "agility",
 				"usage": 10.63
 			}
-		],
-		"rank": 149,
-		"usage": 0.04
+		]
 	},
 	"banettemega": {
 		"name": "Banette-Mega",
+		"rank": 150,
 		"abilities": [
 			{
 				"key": "prankster",
@@ -36840,17 +36181,6 @@
 				"usage": 0.47
 			},
 			{
-				"nature": "Adamant",
-				"hp": 252,
-				"atk": 0,
-				"def": 132,
-				"spa": 0,
-				"spd": 124,
-				"spe": 0,
-				"key": "Adamant:252/0/132/0/124/0",
-				"usage": 0.37
-			},
-			{
 				"nature": "Relaxed",
 				"hp": 252,
 				"atk": 0,
@@ -36859,6 +36189,17 @@
 				"spd": 156,
 				"spe": 0,
 				"key": "Relaxed:252/0/100/0/156/0",
+				"usage": 0.37
+			},
+			{
+				"nature": "Adamant",
+				"hp": 252,
+				"atk": 0,
+				"def": 132,
+				"spa": 0,
+				"spd": 124,
+				"spe": 0,
+				"key": "Adamant:252/0/132/0/124/0",
 				"usage": 0.37
 			}
 		],
@@ -36904,6 +36245,7 @@
 				"usage": 0.53
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "taunt",
@@ -36945,12 +36287,11 @@
 				"key": "trickroom",
 				"usage": 3.02
 			}
-		],
-		"rank": 150,
-		"usage": 0.03
+		]
 	},
 	"marowak": {
 		"name": "Marowak",
+		"rank": 151,
 		"abilities": [
 			{
 				"key": "lightningrod",
@@ -36973,38 +36314,6 @@
 			{
 				"key": "rockyhelmet",
 				"usage": 0.01
-			},
-			{
-				"key": "rarebone",
-				"usage": 0
-			},
-			{
-				"key": "lifeorb",
-				"usage": 0
-			},
-			{
-				"key": "assaultvest",
-				"usage": 0
-			},
-			{
-				"key": "leftovers",
-				"usage": 0
-			},
-			{
-				"key": "mentalherb",
-				"usage": 0
-			},
-			{
-				"key": "sitrusberry",
-				"usage": 0
-			},
-			{
-				"key": "lumberry",
-				"usage": 0
-			},
-			{
-				"key": "focussash",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -37161,6 +36470,7 @@
 				"usage": 0.52
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "bonemerang",
@@ -37202,12 +36512,11 @@
 				"key": "thunderpunch",
 				"usage": 1.06
 			}
-		],
-		"rank": 151,
-		"usage": 0.03
+		]
 	},
 	"steelixmega": {
 		"name": "Steelix-Mega",
+		"rank": 152,
 		"abilities": [
 			{
 				"key": "sandforce",
@@ -37299,17 +36608,6 @@
 				"usage": 0.03
 			},
 			{
-				"nature": "Careful",
-				"hp": 132,
-				"atk": 0,
-				"def": 124,
-				"spa": 0,
-				"spd": 252,
-				"spe": 0,
-				"key": "Careful:132/0/124/0/252/0",
-				"usage": 0.02
-			},
-			{
 				"nature": "Impish",
 				"hp": 244,
 				"atk": 12,
@@ -37318,6 +36616,17 @@
 				"spd": 0,
 				"spe": 0,
 				"key": "Impish:244/12/252/0/0/0",
+				"usage": 0.02
+			},
+			{
+				"nature": "Careful",
+				"hp": 132,
+				"atk": 0,
+				"def": 124,
+				"spa": 0,
+				"spd": 252,
+				"spe": 0,
+				"key": "Careful:132/0/124/0/252/0",
 				"usage": 0.02
 			},
 			{
@@ -37374,6 +36683,7 @@
 				"usage": 6.07
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "protect",
@@ -37384,11 +36694,11 @@
 				"usage": 97.28
 			},
 			{
-				"key": "aquatail",
+				"key": "substitute",
 				"usage": 80.89
 			},
 			{
-				"key": "substitute",
+				"key": "aquatail",
 				"usage": 80.89
 			},
 			{
@@ -37415,12 +36725,11 @@
 				"key": "doubleedge",
 				"usage": 0.83
 			}
-		],
-		"rank": 152,
-		"usage": 0.03
+		]
 	},
 	"nidoking": {
 		"name": "Nidoking",
+		"rank": 153,
 		"abilities": [
 			{
 				"key": "sheerforce",
@@ -37429,10 +36738,6 @@
 			{
 				"key": "poisonpoint",
 				"usage": 0.07
-			},
-			{
-				"key": "rivalry",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -37463,18 +36768,6 @@
 			{
 				"key": "earthplate",
 				"usage": 0.01
-			},
-			{
-				"key": "choicespecs",
-				"usage": 0
-			},
-			{
-				"key": "expertbelt",
-				"usage": 0
-			},
-			{
-				"key": "muscleband",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -37631,6 +36924,7 @@
 				"usage": 4.03
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "protect",
@@ -37672,12 +36966,11 @@
 				"key": "flamethrower",
 				"usage": 6.28
 			}
-		],
-		"rank": 153,
-		"usage": 0.03
+		]
 	},
 	"rotomfrost": {
 		"name": "Rotom-Frost",
+		"rank": 154,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -37694,36 +36987,12 @@
 				"usage": 0.48
 			},
 			{
-				"key": "magnet",
-				"usage": 0.01
-			},
-			{
 				"key": "mentalherb",
 				"usage": 0.01
 			},
 			{
-				"key": "choicespecs",
-				"usage": 0
-			},
-			{
-				"key": "leftovers",
-				"usage": 0
-			},
-			{
-				"key": "lifeorb",
-				"usage": 0
-			},
-			{
-				"key": "splashplate",
-				"usage": 0
-			},
-			{
-				"key": "airballoon",
-				"usage": 0
-			},
-			{
-				"key": "nothing",
-				"usage": 0
+				"key": "magnet",
+				"usage": 0.01
 			}
 		],
 		"spreads": [
@@ -37792,50 +37061,6 @@
 				"spe": 0,
 				"key": "Calm:252/0/0/4/252/0",
 				"usage": 0.01
-			},
-			{
-				"nature": "Hardy",
-				"hp": 8,
-				"atk": 0,
-				"def": 124,
-				"spa": 252,
-				"spd": 124,
-				"spe": 0,
-				"key": "Hardy:8/0/124/252/124/0",
-				"usage": 0
-			},
-			{
-				"nature": "Bold",
-				"hp": 252,
-				"atk": 0,
-				"def": 116,
-				"spa": 0,
-				"spd": 136,
-				"spe": 0,
-				"key": "Bold:252/0/116/0/136/0",
-				"usage": 0
-			},
-			{
-				"nature": "Modest",
-				"hp": 252,
-				"atk": 0,
-				"def": 116,
-				"spa": 140,
-				"spd": 0,
-				"spe": 0,
-				"key": "Modest:252/0/116/140/0/0",
-				"usage": 0
-			},
-			{
-				"nature": "Modest",
-				"hp": 252,
-				"atk": 0,
-				"def": 0,
-				"spa": 248,
-				"spd": 4,
-				"spe": 0,
-				"key": "Modest:252/0/0/248/4/0",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -37874,12 +37099,9 @@
 			{
 				"key": "Alomomola",
 				"usage": 0.01
-			},
-			{
-				"key": "Garchomp",
-				"usage": -0.06
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "blizzard",
@@ -37918,15 +37140,14 @@
 				"usage": 0.03
 			},
 			{
-				"key": "confuseray",
+				"key": "substitute",
 				"usage": 0.01
 			}
-		],
-		"rank": 154,
-		"usage": 0.03
+		]
 	},
 	"goodra": {
 		"name": "Goodra",
+		"rank": 155,
 		"abilities": [
 			{
 				"key": "gooey",
@@ -37975,11 +37196,11 @@
 				"usage": 0.17
 			},
 			{
-				"key": "lumberry",
+				"key": "weaknesspolicy",
 				"usage": 0.08
 			},
 			{
-				"key": "weaknesspolicy",
+				"key": "lumberry",
 				"usage": 0.08
 			}
 		],
@@ -38073,17 +37294,6 @@
 				"usage": 0.71
 			},
 			{
-				"nature": "Bold",
-				"hp": 0,
-				"atk": 0,
-				"def": 252,
-				"spa": 252,
-				"spd": 4,
-				"spe": 0,
-				"key": "Bold:0/0/252/252/4/0",
-				"usage": 0.61
-			},
-			{
 				"nature": "Impish",
 				"hp": 156,
 				"atk": 100,
@@ -38092,6 +37302,17 @@
 				"spd": 0,
 				"spe": 0,
 				"key": "Impish:156/100/252/0/0/0",
+				"usage": 0.61
+			},
+			{
+				"nature": "Bold",
+				"hp": 0,
+				"atk": 0,
+				"def": 252,
+				"spa": 252,
+				"spd": 4,
+				"spe": 0,
+				"key": "Bold:0/0/252/252/4/0",
 				"usage": 0.61
 			}
 		],
@@ -38137,6 +37358,7 @@
 				"usage": 1.82
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "flamethrower",
@@ -38178,12 +37400,11 @@
 				"key": "sludgewave",
 				"usage": 3.64
 			}
-		],
-		"rank": 155,
-		"usage": 0.03
+		]
 	},
 	"chandelure": {
 		"name": "Chandelure",
+		"rank": 156,
 		"abilities": [
 			{
 				"key": "flashfire",
@@ -38394,6 +37615,7 @@
 				"usage": 7.35
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "shadowball",
@@ -38435,12 +37657,11 @@
 				"key": "overheat",
 				"usage": 8.01
 			}
-		],
-		"rank": 156,
-		"usage": 0.03
+		]
 	},
 	"gallademega": {
 		"name": "Gallade-Mega",
+		"rank": 157,
 		"abilities": [
 			{
 				"key": "innerfocus",
@@ -38607,6 +37828,7 @@
 				"usage": 2.69
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "wideguard",
@@ -38648,20 +37870,15 @@
 				"key": "psychocut",
 				"usage": 4.89
 			}
-		],
-		"rank": 157,
-		"usage": 0.03
+		]
 	},
 	"gourgeistsmall": {
 		"name": "Gourgeist-Small",
+		"rank": 158,
 		"abilities": [
 			{
 				"key": "frisk",
 				"usage": 100
-			},
-			{
-				"key": "pickup",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -38672,30 +37889,6 @@
 			{
 				"key": "focussash",
 				"usage": 7.97
-			},
-			{
-				"key": "leftovers",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "quickclaw",
-				"usage": 0
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "sitrusberry",
-				"usage": 0
-			},
-			{
-				"key": "lumberry",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -38720,94 +37913,6 @@
 				"spe": 252,
 				"key": "Timid:252/0/0/0/4/252",
 				"usage": 7.97
-			},
-			{
-				"nature": "Bold",
-				"hp": 212,
-				"atk": 0,
-				"def": 212,
-				"spa": 0,
-				"spd": 0,
-				"spe": 84,
-				"key": "Bold:212/0/212/0/0/84",
-				"usage": 0
-			},
-			{
-				"nature": "Jolly",
-				"hp": 244,
-				"atk": 12,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Jolly:244/12/0/0/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Timid",
-				"hp": 228,
-				"atk": 0,
-				"def": 28,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Timid:228/0/28/0/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Timid",
-				"hp": 244,
-				"atk": 0,
-				"def": 0,
-				"spa": 12,
-				"spd": 0,
-				"spe": 252,
-				"key": "Timid:244/0/0/12/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Timid",
-				"hp": 164,
-				"atk": 0,
-				"def": 0,
-				"spa": 0,
-				"spd": 92,
-				"spe": 252,
-				"key": "Timid:164/0/0/0/92/252",
-				"usage": 0
-			},
-			{
-				"nature": "Bold",
-				"hp": 252,
-				"atk": 0,
-				"def": 100,
-				"spa": 0,
-				"spd": 0,
-				"spe": 156,
-				"key": "Bold:252/0/100/0/0/156",
-				"usage": 0
-			},
-			{
-				"nature": "Careful",
-				"hp": 244,
-				"atk": 12,
-				"def": 0,
-				"spa": 0,
-				"spd": 252,
-				"spe": 0,
-				"key": "Careful:244/12/0/0/252/0",
-				"usage": 0
-			},
-			{
-				"nature": "Jolly",
-				"hp": 0,
-				"atk": 252,
-				"def": 0,
-				"spa": 0,
-				"spd": 4,
-				"spe": 252,
-				"key": "Jolly:0/252/0/0/4/252",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -38838,20 +37943,9 @@
 			{
 				"key": "Weavile",
 				"usage": 3.93
-			},
-			{
-				"key": "empty",
-				"usage": 0
-			},
-			{
-				"key": "Aggron-Mega",
-				"usage": 0
-			},
-			{
-				"key": "Chandelure",
-				"usage": -0.03
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "willowisp",
@@ -38872,33 +37966,12 @@
 			{
 				"key": "destinybond",
 				"usage": 7.97
-			},
-			{
-				"key": "rockslide",
-				"usage": 0
-			},
-			{
-				"key": "worryseed",
-				"usage": 0
-			},
-			{
-				"key": "phantomforce",
-				"usage": 0
-			},
-			{
-				"key": "astonish",
-				"usage": 0
-			},
-			{
-				"key": "foulplay",
-				"usage": 0
 			}
-		],
-		"rank": 158,
-		"usage": 0.03
+		]
 	},
 	"serperior": {
 		"name": "Serperior",
+		"rank": 159,
 		"abilities": [
 			{
 				"key": "contrary",
@@ -39105,6 +38178,7 @@
 				"usage": 5.89
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "leafstorm",
@@ -39146,12 +38220,11 @@
 				"key": "safeguard",
 				"usage": 5.49
 			}
-		],
-		"rank": 159,
-		"usage": 0.03
+		]
 	},
 	"pinsirmega": {
 		"name": "Pinsir-Mega",
+		"rank": 160,
 		"abilities": [
 			{
 				"key": "aerilate",
@@ -39318,6 +38391,7 @@
 				"usage": 1.37
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "protect",
@@ -39359,12 +38433,11 @@
 				"key": "substitute",
 				"usage": 1.82
 			}
-		],
-		"rank": 160,
-		"usage": 0.03
+		]
 	},
 	"linoone": {
 		"name": "Linoone",
+		"rank": 161,
 		"abilities": [
 			{
 				"key": "quickfeet",
@@ -39407,18 +38480,6 @@
 			{
 				"key": "razorfang",
 				"usage": 0.01
-			},
-			{
-				"key": "choicescarf",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "choicespecs",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -39575,6 +38636,7 @@
 				"usage": 0.12
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "protect",
@@ -39591,6 +38653,10 @@
 			{
 				"key": "charm",
 				"usage": 98.34
+			},
+			{
+				"key": "",
+				"usage": 1.12
 			},
 			{
 				"key": "superfang",
@@ -39611,17 +38677,12 @@
 			{
 				"key": "bestow",
 				"usage": 0.41
-			},
-			{
-				"key": "lastresort",
-				"usage": 0.36
 			}
-		],
-		"rank": 161,
-		"usage": 0.03
+		]
 	},
 	"moltres": {
 		"name": "Moltres",
+		"rank": 162,
 		"abilities": [
 			{
 				"key": "flamebody",
@@ -39828,6 +38889,7 @@
 				"usage": 7.26
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "flamethrower",
@@ -39869,12 +38931,11 @@
 				"key": "ancientpower",
 				"usage": 7.57
 			}
-		],
-		"rank": 162,
-		"usage": 0.03
+		]
 	},
 	"magnezone": {
 		"name": "Magnezone",
+		"rank": 163,
 		"abilities": [
 			{
 				"key": "magnetpull",
@@ -40085,6 +39146,7 @@
 				"usage": 3.34
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "flashcannon",
@@ -40126,12 +39188,11 @@
 				"key": "discharge",
 				"usage": 2.84
 			}
-		],
-		"rank": 163,
-		"usage": 0.03
+		]
 	},
 	"politoed": {
 		"name": "Politoed",
+		"rank": 164,
 		"abilities": [
 			{
 				"key": "drizzle",
@@ -40342,6 +39403,7 @@
 				"usage": 7.68
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "protect",
@@ -40383,12 +39445,11 @@
 				"key": "hydropump",
 				"usage": 6.46
 			}
-		],
-		"rank": 164,
-		"usage": 0.03
+		]
 	},
 	"musharna": {
 		"name": "Musharna",
+		"rank": 165,
 		"abilities": [
 			{
 				"key": "telepathy",
@@ -40431,18 +39492,6 @@
 			{
 				"key": "bigroot",
 				"usage": 0.01
-			},
-			{
-				"key": "assaultvest",
-				"usage": 0
-			},
-			{
-				"key": "lifeorb",
-				"usage": 0
-			},
-			{
-				"key": "colburberry",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -40599,6 +39648,7 @@
 				"usage": 4.42
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "trickroom",
@@ -40640,12 +39690,11 @@
 				"key": "psyshock",
 				"usage": 6.43
 			}
-		],
-		"rank": 165,
-		"usage": 0.03
+		]
 	},
 	"aron": {
 		"name": "Aron",
+		"rank": 166,
 		"abilities": [
 			{
 				"key": "sturdy",
@@ -40664,34 +39713,6 @@
 			{
 				"key": "custapberry",
 				"usage": 0.39
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "airballoon",
-				"usage": 0
-			},
-			{
-				"key": "expertbelt",
-				"usage": 0
-			},
-			{
-				"key": "focusband",
-				"usage": 0
-			},
-			{
-				"key": "sitrusberry",
-				"usage": 0
-			},
-			{
-				"key": "lumberry",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -40782,28 +39803,6 @@
 				"spe": 0,
 				"key": "Docile:0/0/0/0/0/0",
 				"usage": 0.01
-			},
-			{
-				"nature": "Bold",
-				"hp": 252,
-				"atk": 0,
-				"def": 252,
-				"spa": 0,
-				"spd": 4,
-				"spe": 0,
-				"key": "Bold:252/0/252/0/4/0",
-				"usage": 0
-			},
-			{
-				"nature": "Bold",
-				"hp": 248,
-				"atk": 0,
-				"def": 0,
-				"spa": 0,
-				"spd": 8,
-				"spe": 0,
-				"key": "Bold:248/0/0/0/8/0",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -40848,13 +39847,14 @@
 				"usage": 2.98
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
-				"key": "protect",
+				"key": "endeavor",
 				"usage": 100
 			},
 			{
-				"key": "endeavor",
+				"key": "protect",
 				"usage": 100
 			},
 			{
@@ -40889,12 +39889,11 @@
 				"key": "doubleteam",
 				"usage": 2.54
 			}
-		],
-		"rank": 166,
-		"usage": 0.03
+		]
 	},
 	"abomasnowmega": {
 		"name": "Abomasnow-Mega",
+		"rank": 167,
 		"abilities": [
 			{
 				"key": "snowwarning",
@@ -41061,6 +40060,7 @@
 				"usage": 3.41
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "protect",
@@ -41102,12 +40102,11 @@
 				"key": "leechseed",
 				"usage": 7.5
 			}
-		],
-		"rank": 167,
-		"usage": 0.03
+		]
 	},
 	"cameruptmega": {
 		"name": "Camerupt-Mega",
+		"rank": 168,
 		"abilities": [
 			{
 				"key": "sheerforce",
@@ -41274,6 +40273,7 @@
 				"usage": 8.88
 			}
 		],
+		"usage": 0.03,
 		"moves": [
 			{
 				"key": "earthpower",
@@ -41315,12 +40315,11 @@
 				"key": "hiddenpowerice",
 				"usage": 4.53
 			}
-		],
-		"rank": 168,
-		"usage": 0.03
+		]
 	},
 	"machamp": {
 		"name": "Machamp",
+		"rank": 169,
 		"abilities": [
 			{
 				"key": "noguard",
@@ -41531,6 +40530,7 @@
 				"usage": 6.06
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "dynamicpunch",
@@ -41572,12 +40572,11 @@
 				"key": "rockslide",
 				"usage": 13.01
 			}
-		],
-		"rank": 169,
-		"usage": 0.02
+		]
 	},
 	"reshiram": {
 		"name": "Reshiram",
+		"rank": 170,
 		"abilities": [
 			{
 				"key": "turboblaze",
@@ -41780,6 +40779,7 @@
 				"usage": 7.65
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "protect",
@@ -41814,19 +40814,18 @@
 				"usage": 18.97
 			},
 			{
-				"key": "focusblast",
-				"usage": 8.44
+				"key": "",
+				"usage": 14.46
 			},
 			{
-				"key": "shadowball",
-				"usage": 8.27
+				"key": "focusblast",
+				"usage": 8.44
 			}
-		],
-		"rank": 170,
-		"usage": 0.02
+		]
 	},
 	"groudon": {
 		"name": "Groudon",
+		"rank": 171,
 		"abilities": [
 			{
 				"key": "drought",
@@ -42029,6 +41028,7 @@
 				"usage": 2.71
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "precipiceblades",
@@ -42055,6 +41055,10 @@
 				"usage": 29.12
 			},
 			{
+				"key": "",
+				"usage": 12.71
+			},
+			{
 				"key": "rocktomb",
 				"usage": 7.82
 			},
@@ -42065,25 +41069,16 @@
 			{
 				"key": "sleeptalk",
 				"usage": 5.35
-			},
-			{
-				"key": "dragonclaw",
-				"usage": 5.01
 			}
-		],
-		"rank": 171,
-		"usage": 0.02
+		]
 	},
 	"stantler": {
 		"name": "Stantler",
+		"rank": 172,
 		"abilities": [
 			{
 				"key": "intimidate",
 				"usage": 100
-			},
-			{
-				"key": "sapsipper",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -42110,22 +41105,6 @@
 			{
 				"key": "choicescarf",
 				"usage": 0.01
-			},
-			{
-				"key": "lifeorb",
-				"usage": 0
-			},
-			{
-				"key": "leftovers",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "lightclay",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -42282,6 +41261,7 @@
 				"usage": 17.26
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "skillswap",
@@ -42312,23 +41292,22 @@
 				"usage": 22.15
 			},
 			{
-				"key": "lightscreen",
+				"key": "reflect",
 				"usage": 20.29
 			},
 			{
-				"key": "reflect",
+				"key": "lightscreen",
 				"usage": 20.29
 			},
 			{
 				"key": "protect",
 				"usage": 5.32
 			}
-		],
-		"rank": 172,
-		"usage": 0.02
+		]
 	},
 	"mismagius": {
 		"name": "Mismagius",
+		"rank": 173,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -42363,18 +41342,6 @@
 			{
 				"key": "spelltag",
 				"usage": 0.01
-			},
-			{
-				"key": "salacberry",
-				"usage": 0
-			},
-			{
-				"key": "blacksludge",
-				"usage": 0
-			},
-			{
-				"key": "weaknesspolicy",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -42531,6 +41498,7 @@
 				"usage": 1.03
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "icywind",
@@ -42572,12 +41540,11 @@
 				"key": "darkpulse",
 				"usage": 2.39
 			}
-		],
-		"rank": 173,
-		"usage": 0.02
+		]
 	},
 	"aerodactylmega": {
 		"name": "Aerodactyl-Mega",
+		"rank": 174,
 		"abilities": [
 			{
 				"key": "toughclaws",
@@ -42744,6 +41711,7 @@
 				"usage": 5.77
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "rockslide",
@@ -42785,12 +41753,11 @@
 				"key": "roost",
 				"usage": 3.49
 			}
-		],
-		"rank": 174,
-		"usage": 0.02
+		]
 	},
 	"slowbromega": {
 		"name": "Slowbro-Mega",
+		"rank": 175,
 		"abilities": [
 			{
 				"key": "shellarmor",
@@ -42957,6 +41924,7 @@
 				"usage": 9.36
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "scald",
@@ -42998,12 +41966,11 @@
 				"key": "magiccoat",
 				"usage": 17.82
 			}
-		],
-		"rank": 175,
-		"usage": 0.02
+		]
 	},
 	"nidoqueen": {
 		"name": "Nidoqueen",
+		"rank": 176,
 		"abilities": [
 			{
 				"key": "sheerforce",
@@ -43050,14 +42017,6 @@
 			{
 				"key": "choicescarf",
 				"usage": 0.01
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "nothing",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -43214,6 +42173,7 @@
 				"usage": 0.1
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "earthpower",
@@ -43255,12 +42215,11 @@
 				"key": "stealthrock",
 				"usage": 0.16
 			}
-		],
-		"rank": 176,
-		"usage": 0.02
+		]
 	},
 	"haunter": {
 		"name": "Haunter",
+		"rank": 177,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -43275,26 +42234,6 @@
 			{
 				"key": "focussash",
 				"usage": 0.07
-			},
-			{
-				"key": "blacksludge",
-				"usage": 0
-			},
-			{
-				"key": "lifeorb",
-				"usage": 0
-			},
-			{
-				"key": "choicescarf",
-				"usage": 0
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "poisonbarb",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -43341,72 +42280,6 @@
 				"spe": 252,
 				"key": "Timid:4/0/0/0/252/252",
 				"usage": 0.07
-			},
-			{
-				"nature": "Timid",
-				"hp": 244,
-				"atk": 0,
-				"def": 0,
-				"spa": 12,
-				"spd": 0,
-				"spe": 252,
-				"key": "Timid:244/0/0/12/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Modest",
-				"hp": 248,
-				"atk": 0,
-				"def": 0,
-				"spa": 252,
-				"spd": 8,
-				"spe": 0,
-				"key": "Modest:248/0/0/252/8/0",
-				"usage": 0
-			},
-			{
-				"nature": "Calm",
-				"hp": 0,
-				"atk": 0,
-				"def": 0,
-				"spa": 12,
-				"spd": 252,
-				"spe": 244,
-				"key": "Calm:0/0/0/12/252/244",
-				"usage": 0
-			},
-			{
-				"nature": "Timid",
-				"hp": 4,
-				"atk": 0,
-				"def": 0,
-				"spa": 252,
-				"spd": 0,
-				"spe": 252,
-				"key": "Timid:4/0/0/252/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Hardy",
-				"hp": 0,
-				"atk": 0,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 0,
-				"key": "Hardy:0/0/0/0/0/0",
-				"usage": 0
-			},
-			{
-				"nature": "Timid",
-				"hp": 252,
-				"atk": 0,
-				"def": 0,
-				"spa": 0,
-				"spd": 4,
-				"spe": 252,
-				"key": "Timid:252/0/0/0/4/252",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -43445,12 +42318,9 @@
 			{
 				"key": "Dusknoir",
 				"usage": 0.23
-			},
-			{
-				"key": "Klefki",
-				"usage": -0.08
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "haze",
@@ -43492,12 +42362,11 @@
 				"key": "painsplit",
 				"usage": 0.24
 			}
-		],
-		"rank": 177,
-		"usage": 0.02
+		]
 	},
 	"beedrillmega": {
 		"name": "Beedrill-Mega",
+		"rank": 178,
 		"abilities": [
 			{
 				"key": "adaptability",
@@ -43664,6 +42533,7 @@
 				"usage": 6.15
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "poisonjab",
@@ -43705,12 +42575,11 @@
 				"key": "swordsdance",
 				"usage": 1.26
 			}
-		],
-		"rank": 178,
-		"usage": 0.02
+		]
 	},
 	"archeops": {
 		"name": "Archeops",
+		"rank": 179,
 		"abilities": [
 			{
 				"key": "defeatist",
@@ -43731,11 +42600,11 @@
 				"usage": 7.45
 			},
 			{
-				"key": "nothing",
+				"key": "sitrusberry",
 				"usage": 0.62
 			},
 			{
-				"key": "sitrusberry",
+				"key": "nothing",
 				"usage": 0.62
 			},
 			{
@@ -43753,10 +42622,6 @@
 			{
 				"key": "focusband",
 				"usage": 0.02
-			},
-			{
-				"key": "weaknesspolicy",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -43847,28 +42712,6 @@
 				"spe": 252,
 				"key": "Modest:0/0/4/252/0/252",
 				"usage": 0.02
-			},
-			{
-				"nature": "Jolly",
-				"hp": 252,
-				"atk": 252,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 4,
-				"key": "Jolly:252/252/0/0/0/4",
-				"usage": 0
-			},
-			{
-				"nature": "Hasty",
-				"hp": 4,
-				"atk": 252,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Hasty:4/252/0/0/0/252",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -43913,6 +42756,7 @@
 				"usage": 0.91
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "quickguard",
@@ -43954,12 +42798,11 @@
 				"key": "earthquake",
 				"usage": 2.73
 			}
-		],
-		"rank": 179,
-		"usage": 0.02
+		]
 	},
 	"tyranitarmega": {
 		"name": "Tyranitar-Mega",
+		"rank": 180,
 		"abilities": [
 			{
 				"key": "sandstream",
@@ -44126,6 +42969,7 @@
 				"usage": 4.51
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "protect",
@@ -44167,12 +43011,11 @@
 				"key": "icebeam",
 				"usage": 6.29
 			}
-		],
-		"rank": 180,
-		"usage": 0.02
+		]
 	},
 	"donphan": {
 		"name": "Donphan",
+		"rank": 181,
 		"abilities": [
 			{
 				"key": "sturdy",
@@ -44207,22 +43050,6 @@
 			{
 				"key": "assaultvest",
 				"usage": 0.02
-			},
-			{
-				"key": "fullincense",
-				"usage": 0
-			},
-			{
-				"key": "quickclaw",
-				"usage": 0
-			},
-			{
-				"key": "sitrusberry",
-				"usage": 0
-			},
-			{
-				"key": "earthplate",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -44302,39 +43129,6 @@
 				"spe": 0,
 				"key": "Adamant:8/252/124/0/124/0",
 				"usage": 0.01
-			},
-			{
-				"nature": "Adamant",
-				"hp": 244,
-				"atk": 228,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 32,
-				"key": "Adamant:244/228/0/0/0/32",
-				"usage": 0
-			},
-			{
-				"nature": "Hardy",
-				"hp": 156,
-				"atk": 4,
-				"def": 68,
-				"spa": 14,
-				"spd": 14,
-				"spe": 252,
-				"key": "Hardy:156/4/68/14/14/252",
-				"usage": 0
-			},
-			{
-				"nature": "Hardy",
-				"hp": 252,
-				"atk": 4,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Hardy:252/4/0/0/0/252",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -44379,6 +43173,7 @@
 				"usage": 0.45
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "earthquake",
@@ -44420,12 +43215,11 @@
 				"key": "rapidspin",
 				"usage": 0.49
 			}
-		],
-		"rank": 181,
-		"usage": 0.02
+		]
 	},
 	"raikou": {
 		"name": "Raikou",
+		"rank": 182,
 		"abilities": [
 			{
 				"key": "pressure",
@@ -44628,6 +43422,7 @@
 				"usage": 5.67
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "thunderbolt",
@@ -44662,19 +43457,18 @@
 				"usage": 8.01
 			},
 			{
-				"key": "flash",
+				"key": "hiddenpowerground",
 				"usage": 5.92
 			},
 			{
-				"key": "hiddenpowerground",
+				"key": "flash",
 				"usage": 5.92
 			}
-		],
-		"rank": 182,
-		"usage": 0.02
+		]
 	},
 	"glaliemega": {
 		"name": "Glalie-Mega",
+		"rank": 183,
 		"abilities": [
 			{
 				"key": "refrigerate",
@@ -44841,6 +43635,7 @@
 				"usage": 2.29
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "protect",
@@ -44863,11 +43658,11 @@
 				"usage": 20.75
 			},
 			{
-				"key": "snore",
+				"key": "hyperbeam",
 				"usage": 10.62
 			},
 			{
-				"key": "hyperbeam",
+				"key": "snore",
 				"usage": 10.62
 			},
 			{
@@ -44882,12 +43677,11 @@
 				"key": "iceshard",
 				"usage": 2.5
 			}
-		],
-		"rank": 183,
-		"usage": 0.02
+		]
 	},
 	"accelgor": {
 		"name": "Accelgor",
+		"rank": 184,
 		"abilities": [
 			{
 				"key": "hydration",
@@ -45098,6 +43892,7 @@
 				"usage": 5.97
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "protect",
@@ -45139,20 +43934,15 @@
 				"key": "rest",
 				"usage": 13.71
 			}
-		],
-		"rank": 184,
-		"usage": 0.02
+		]
 	},
 	"emboar": {
 		"name": "Emboar",
+		"rank": 185,
 		"abilities": [
 			{
 				"key": "reckless",
 				"usage": 100
-			},
-			{
-				"key": "blaze",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -45175,26 +43965,6 @@
 			{
 				"key": "choicescarf",
 				"usage": 0.02
-			},
-			{
-				"key": "leftovers",
-				"usage": 0
-			},
-			{
-				"key": "choicespecs",
-				"usage": 0
-			},
-			{
-				"key": "razorclaw",
-				"usage": 0
-			},
-			{
-				"key": "focussash",
-				"usage": 0
-			},
-			{
-				"key": "airballoon",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -45252,61 +44022,6 @@
 				"spe": 252,
 				"key": "Jolly:0/252/0/0/4/252",
 				"usage": 0.02
-			},
-			{
-				"nature": "Hardy",
-				"hp": 148,
-				"atk": 76,
-				"def": 116,
-				"spa": 0,
-				"spd": 40,
-				"spe": 124,
-				"key": "Hardy:148/76/116/0/40/124",
-				"usage": 0
-			},
-			{
-				"nature": "Adamant",
-				"hp": 248,
-				"atk": 252,
-				"def": 0,
-				"spa": 0,
-				"spd": 8,
-				"spe": 0,
-				"key": "Adamant:248/252/0/0/8/0",
-				"usage": 0
-			},
-			{
-				"nature": "Jolly",
-				"hp": 0,
-				"atk": 252,
-				"def": 252,
-				"spa": 0,
-				"spd": 4,
-				"spe": 0,
-				"key": "Jolly:0/252/252/0/4/0",
-				"usage": 0
-			},
-			{
-				"nature": "Brave",
-				"hp": 252,
-				"atk": 252,
-				"def": 0,
-				"spa": 0,
-				"spd": 4,
-				"spe": 0,
-				"key": "Brave:252/252/0/0/4/0",
-				"usage": 0
-			},
-			{
-				"nature": "Adamant",
-				"hp": 0,
-				"atk": 252,
-				"def": 4,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Adamant:0/252/4/0/0/252",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -45339,25 +44054,26 @@
 				"usage": 0.02
 			},
 			{
-				"key": "Goodra",
-				"usage": 0.01
-			},
-			{
 				"key": "Samurott",
 				"usage": 0.01
 			},
 			{
 				"key": "Typhlosion",
 				"usage": 0.01
+			},
+			{
+				"key": "Goodra",
+				"usage": 0.01
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
-				"key": "wildcharge",
+				"key": "flareblitz",
 				"usage": 99.94
 			},
 			{
-				"key": "flareblitz",
+				"key": "wildcharge",
 				"usage": 99.94
 			},
 			{
@@ -45369,19 +44085,19 @@
 				"usage": 99.85
 			},
 			{
-				"key": "bulkup",
-				"usage": 0.06
-			},
-			{
-				"key": "flamecharge",
-				"usage": 0.06
-			},
-			{
 				"key": "firepunch",
 				"usage": 0.06
 			},
 			{
 				"key": "gyroball",
+				"usage": 0.06
+			},
+			{
+				"key": "bulkup",
+				"usage": 0.06
+			},
+			{
+				"key": "flamecharge",
 				"usage": 0.06
 			},
 			{
@@ -45392,12 +44108,11 @@
 				"key": "superpower",
 				"usage": 0.05
 			}
-		],
-		"rank": 185,
-		"usage": 0.02
+		]
 	},
 	"garchompmega": {
 		"name": "Garchomp-Mega",
+		"rank": 186,
 		"abilities": [
 			{
 				"key": "sandforce",
@@ -45564,6 +44279,7 @@
 				"usage": 4.68
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "protect",
@@ -45605,12 +44321,11 @@
 				"key": "brickbreak",
 				"usage": 8.08
 			}
-		],
-		"rank": 186,
-		"usage": 0.02
+		]
 	},
 	"tentacruel": {
 		"name": "Tentacruel",
+		"rank": 187,
 		"abilities": [
 			{
 				"key": "clearbody",
@@ -45657,14 +44372,6 @@
 			{
 				"key": "choicespecs",
 				"usage": 0.03
-			},
-			{
-				"key": "berryjuice",
-				"usage": 0
-			},
-			{
-				"key": "quickclaw",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -45821,6 +44528,7 @@
 				"usage": 1.89
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "icywind",
@@ -45862,12 +44570,11 @@
 				"key": "rapidspin",
 				"usage": 1.99
 			}
-		],
-		"rank": 187,
-		"usage": 0.02
+		]
 	},
 	"kingdra": {
 		"name": "Kingdra",
+		"rank": 188,
 		"abilities": [
 			{
 				"key": "swiftswim",
@@ -45876,10 +44583,6 @@
 			{
 				"key": "sniper",
 				"usage": 12.44
-			},
-			{
-				"key": "damp",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -46078,6 +44781,7 @@
 				"usage": 8.46
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "dracometeor",
@@ -46119,12 +44823,11 @@
 				"key": "flashcannon",
 				"usage": 16.68
 			}
-		],
-		"rank": 188,
-		"usage": 0.02
+		]
 	},
 	"murkrow": {
 		"name": "Murkrow",
+		"rank": 189,
 		"abilities": [
 			{
 				"key": "prankster",
@@ -46133,10 +44836,6 @@
 			{
 				"key": "insomnia",
 				"usage": 0.4
-			},
-			{
-				"key": "superluck",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -46155,22 +44854,6 @@
 			{
 				"key": "leftovers",
 				"usage": 0.01
-			},
-			{
-				"key": "focusband",
-				"usage": 0
-			},
-			{
-				"key": "choicescarf",
-				"usage": 0
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "sitrusberry",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -46327,6 +45010,7 @@
 				"usage": 9.54
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "taunt",
@@ -46368,12 +45052,11 @@
 				"key": "featherdance",
 				"usage": 11.65
 			}
-		],
-		"rank": 189,
-		"usage": 0.02
+		]
 	},
 	"gardevoir": {
 		"name": "Gardevoir",
+		"rank": 190,
 		"abilities": [
 			{
 				"key": "telepathy",
@@ -46584,6 +45267,7 @@
 				"usage": 7.19
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "moonblast",
@@ -46625,12 +45309,11 @@
 				"key": "hiddenpowerice",
 				"usage": 16.46
 			}
-		],
-		"rank": 190,
-		"usage": 0.02
+		]
 	},
 	"durant": {
 		"name": "Durant",
+		"rank": 191,
 		"abilities": [
 			{
 				"key": "hustle",
@@ -46841,6 +45524,7 @@
 				"usage": 0.18
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "ironhead",
@@ -46882,12 +45566,11 @@
 				"key": "rockslide",
 				"usage": 0.51
 			}
-		],
-		"rank": 191,
-		"usage": 0.02
+		]
 	},
 	"charizardmegax": {
 		"name": "Charizard-Mega-X",
+		"rank": 192,
 		"abilities": [
 			{
 				"key": "toughclaws",
@@ -47054,6 +45737,7 @@
 				"usage": 7.62
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "flareblitz",
@@ -47095,12 +45779,11 @@
 				"key": "earthquake",
 				"usage": 11.39
 			}
-		],
-		"rank": 192,
-		"usage": 0.02
+		]
 	},
 	"mamoswine": {
 		"name": "Mamoswine",
+		"rank": 193,
 		"abilities": [
 			{
 				"key": "thickfat",
@@ -47311,6 +45994,7 @@
 				"usage": 6.24
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "earthquake",
@@ -47352,54 +46036,21 @@
 				"key": "stealthrock",
 				"usage": 2.41
 			}
-		],
-		"rank": 193,
-		"usage": 0.02
+		]
 	},
 	"zangoose": {
 		"name": "Zangoose",
+		"rank": 194,
 		"abilities": [
 			{
 				"key": "toxicboost",
 				"usage": 99.61
-			},
-			{
-				"key": "immunity",
-				"usage": 0
 			}
 		],
 		"items": [
 			{
 				"key": "toxicorb",
 				"usage": 99.61
-			},
-			{
-				"key": "lifeorb",
-				"usage": 0
-			},
-			{
-				"key": "choicescarf",
-				"usage": 0
-			},
-			{
-				"key": "focussash",
-				"usage": 0
-			},
-			{
-				"key": "sitrusberry",
-				"usage": 0
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "choicespecs",
-				"usage": 0
-			},
-			{
-				"key": "choiceband",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -47457,61 +46108,6 @@
 				"spe": 4,
 				"key": "Adamant:252/252/0/0/0/4",
 				"usage": 0.02
-			},
-			{
-				"nature": "Jolly",
-				"hp": 128,
-				"atk": 128,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Jolly:128/128/0/0/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Adamant",
-				"hp": 0,
-				"atk": 252,
-				"def": 4,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Adamant:0/252/4/0/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Adamant",
-				"hp": 252,
-				"atk": 252,
-				"def": 4,
-				"spa": 0,
-				"spd": 0,
-				"spe": 0,
-				"key": "Adamant:252/252/4/0/0/0",
-				"usage": 0
-			},
-			{
-				"nature": "Impish",
-				"hp": 8,
-				"atk": 248,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Impish:8/248/0/0/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Hardy",
-				"hp": 252,
-				"atk": 0,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Hardy:252/0/0/0/0/252",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -47544,11 +46140,11 @@
 				"usage": 0.25
 			},
 			{
-				"key": "Fletchinder",
+				"key": "Klinklang",
 				"usage": 0.15
 			},
 			{
-				"key": "Klinklang",
+				"key": "Fletchinder",
 				"usage": 0.15
 			},
 			{
@@ -47556,6 +46152,7 @@
 				"usage": 0.11
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "facade",
@@ -47590,19 +46187,18 @@
 				"usage": 0.78
 			},
 			{
-				"key": "substitute",
+				"key": "rockslide",
 				"usage": 0.34
 			},
 			{
-				"key": "rockslide",
+				"key": "substitute",
 				"usage": 0.34
 			}
-		],
-		"rank": 194,
-		"usage": 0.02
+		]
 	},
 	"slaking": {
 		"name": "Slaking",
+		"rank": 195,
 		"abilities": [
 			{
 				"key": "truant",
@@ -47805,6 +46401,7 @@
 				"usage": 1.33
 			}
 		],
+		"usage": 0.02,
 		"moves": [
 			{
 				"key": "earthquake",
@@ -47846,12 +46443,11 @@
 				"key": "shadowclaw",
 				"usage": 8.02
 			}
-		],
-		"rank": 195,
-		"usage": 0.02
+		]
 	},
 	"blaziken": {
 		"name": "Blaziken",
+		"rank": 196,
 		"abilities": [
 			{
 				"key": "speedboost",
@@ -48058,6 +46654,7 @@
 				"usage": 8.11
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "protect",
@@ -48099,12 +46696,11 @@
 				"key": "rockslide",
 				"usage": 13.98
 			}
-		],
-		"rank": 196,
-		"usage": 0.01
+		]
 	},
 	"latiasmega": {
 		"name": "Latias-Mega",
+		"rank": 197,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -48263,14 +46859,15 @@
 				"usage": 5.97
 			},
 			{
-				"key": "Leavanny",
+				"key": "Honchkrow",
 				"usage": 3.7
 			},
 			{
-				"key": "Honchkrow",
+				"key": "Leavanny",
 				"usage": 3.7
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "dragonpulse",
@@ -48312,12 +46909,11 @@
 				"key": "roost",
 				"usage": 3.99
 			}
-		],
-		"rank": 197,
-		"usage": 0.01
+		]
 	},
 	"floatzel": {
 		"name": "Floatzel",
+		"rank": 198,
 		"abilities": [
 			{
 				"key": "swiftswim",
@@ -48362,11 +46958,11 @@
 				"usage": 0.17
 			},
 			{
-				"key": "widelens",
+				"key": "expertbelt",
 				"usage": 0.03
 			},
 			{
-				"key": "expertbelt",
+				"key": "widelens",
 				"usage": 0.03
 			}
 		],
@@ -48520,10 +47116,11 @@
 				"usage": 0.36
 			},
 			{
-				"key": "Sceptile-Mega",
+				"key": "Octillery",
 				"usage": 0.34
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "soak",
@@ -48565,12 +47162,11 @@
 				"key": "icywind",
 				"usage": 0.8
 			}
-		],
-		"rank": 198,
-		"usage": 0.01
+		]
 	},
 	"crawdaunt": {
 		"name": "Crawdaunt",
+		"rank": 199,
 		"abilities": [
 			{
 				"key": "adaptability",
@@ -48613,18 +47209,6 @@
 			{
 				"key": "lumberry",
 				"usage": 0.04
-			},
-			{
-				"key": "flameorb",
-				"usage": 0
-			},
-			{
-				"key": "muscleband",
-				"usage": 0
-			},
-			{
-				"key": "kingsrock",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -48781,6 +47365,7 @@
 				"usage": 3.06
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "knockoff",
@@ -48822,12 +47407,11 @@
 				"key": "crunch",
 				"usage": 1.19
 			}
-		],
-		"rank": 199,
-		"usage": 0.01
+		]
 	},
 	"muk": {
 		"name": "Muk",
+		"rank": 200,
 		"abilities": [
 			{
 				"key": "stickyhold",
@@ -48866,22 +47450,6 @@
 			{
 				"key": "toxicplate",
 				"usage": 0.01
-			},
-			{
-				"key": "leftovers",
-				"usage": 0
-			},
-			{
-				"key": "lifeorb",
-				"usage": 0
-			},
-			{
-				"key": "toxicorb",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -49038,6 +47606,7 @@
 				"usage": 2.7
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "venomdrench",
@@ -49079,12 +47648,11 @@
 				"key": "poweruppunch",
 				"usage": 5.35
 			}
-		],
-		"rank": 200,
-		"usage": 0.01
+		]
 	},
 	"blazikenmega": {
 		"name": "Blaziken-Mega",
+		"rank": 201,
 		"abilities": [
 			{
 				"key": "speedboost",
@@ -49251,6 +47819,7 @@
 				"usage": 4.54
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "flareblitz",
@@ -49292,12 +47861,11 @@
 				"key": "flamethrower",
 				"usage": 9.12
 			}
-		],
-		"rank": 201,
-		"usage": 0.01
+		]
 	},
 	"slurpuff": {
 		"name": "Slurpuff",
+		"rank": 202,
 		"abilities": [
 			{
 				"key": "sweetveil",
@@ -49328,26 +47896,6 @@
 			{
 				"key": "redcard",
 				"usage": 0.04
-			},
-			{
-				"key": "kebiaberry",
-				"usage": 0
-			},
-			{
-				"key": "chestoberry",
-				"usage": 0
-			},
-			{
-				"key": "expertbelt",
-				"usage": 0
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "ejectbutton",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -49504,6 +48052,7 @@
 				"usage": 3.05
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "protect",
@@ -49545,12 +48094,11 @@
 				"key": "cottonspore",
 				"usage": 10.84
 			}
-		],
-		"rank": 202,
-		"usage": 0.01
+		]
 	},
 	"metagross": {
 		"name": "Metagross",
+		"rank": 203,
 		"abilities": [
 			{
 				"key": "clearbody",
@@ -49749,14 +48297,15 @@
 				"usage": 7.78
 			},
 			{
-				"key": "Swampert-Mega",
+				"key": "Malamar",
 				"usage": 7.36
 			},
 			{
-				"key": "Shuckle",
+				"key": "Swampert-Mega",
 				"usage": 7.36
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "bulletpunch",
@@ -49798,12 +48347,11 @@
 				"key": "thunderpunch",
 				"usage": 12.15
 			}
-		],
-		"rank": 203,
-		"usage": 0.01
+		]
 	},
 	"lunatone": {
 		"name": "Lunatone",
+		"rank": 204,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -49834,22 +48382,6 @@
 			{
 				"key": "focussash",
 				"usage": 0.02
-			},
-			{
-				"key": "leftovers",
-				"usage": 0
-			},
-			{
-				"key": "lifeorb",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "lightclay",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -50006,6 +48538,7 @@
 				"usage": 6.28
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "earthpower",
@@ -50047,12 +48580,11 @@
 				"key": "helpinghand",
 				"usage": 5.68
 			}
-		],
-		"rank": 204,
-		"usage": 0.01
+		]
 	},
 	"pachirisu": {
 		"name": "Pachirisu",
+		"rank": 205,
 		"abilities": [
 			{
 				"key": "voltabsorb",
@@ -50101,11 +48633,11 @@
 				"usage": 0.12
 			},
 			{
-				"key": "nothing",
+				"key": "mentalherb",
 				"usage": 0.08
 			},
 			{
-				"key": "mentalherb",
+				"key": "nothing",
 				"usage": 0.08
 			}
 		],
@@ -50263,6 +48795,7 @@
 				"usage": 4.25
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "nuzzle",
@@ -50304,12 +48837,11 @@
 				"key": "substitute",
 				"usage": 1.9
 			}
-		],
-		"rank": 205,
-		"usage": 0.01
+		]
 	},
 	"vileplume": {
 		"name": "Vileplume",
+		"rank": 206,
 		"abilities": [
 			{
 				"key": "chlorophyll",
@@ -50356,10 +48888,6 @@
 			{
 				"key": "sitrusberry",
 				"usage": 0.01
-			},
-			{
-				"key": "widelens",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -50516,6 +49044,7 @@
 				"usage": 5.4
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "sludgebomb",
@@ -50557,12 +49086,11 @@
 				"key": "energyball",
 				"usage": 5.45
 			}
-		],
-		"rank": 206,
-		"usage": 0.01
+		]
 	},
 	"cloyster": {
 		"name": "Cloyster",
+		"rank": 207,
 		"abilities": [
 			{
 				"key": "skilllink",
@@ -50773,6 +49301,7 @@
 				"usage": 4.45
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "rockblast",
@@ -50814,12 +49343,11 @@
 				"key": "toxicspikes",
 				"usage": 6.11
 			}
-		],
-		"rank": 207,
-		"usage": 0.01
+		]
 	},
 	"trevenant": {
 		"name": "Trevenant",
+		"rank": 208,
 		"abilities": [
 			{
 				"key": "harvest",
@@ -50858,22 +49386,6 @@
 			{
 				"key": "oranberry",
 				"usage": 0.01
-			},
-			{
-				"key": "colburberry",
-				"usage": 0
-			},
-			{
-				"key": "apicotberry",
-				"usage": 0
-			},
-			{
-				"key": "laxincense",
-				"usage": 0
-			},
-			{
-				"key": "blackglasses",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -51030,6 +49542,7 @@
 				"usage": 4.54
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "trickroom",
@@ -51071,12 +49584,11 @@
 				"key": "substitute",
 				"usage": 5.81
 			}
-		],
-		"rank": 208,
-		"usage": 0.01
+		]
 	},
 	"mrmime": {
-		"name": "Mr-Mime",
+		"name": "Mr. Mime",
+		"rank": 209,
 		"abilities": [
 			{
 				"key": "soundproof",
@@ -51129,7 +49641,7 @@
 				"usage": 0.1
 			},
 			{
-				"key": "lightclay",
+				"key": "ejectbutton",
 				"usage": 0.02
 			}
 		],
@@ -51287,6 +49799,7 @@
 				"usage": 6.11
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "fakeout",
@@ -51328,12 +49841,11 @@
 				"key": "psychic",
 				"usage": 6.41
 			}
-		],
-		"rank": 209,
-		"usage": 0.01
+		]
 	},
 	"uxie": {
 		"name": "Uxie",
+		"rank": 210,
 		"abilities": [
 			{
 				"key": "levitate",
@@ -51368,18 +49880,6 @@
 			{
 				"key": "rockyhelmet",
 				"usage": 0.05
-			},
-			{
-				"key": "weaknesspolicy",
-				"usage": 0
-			},
-			{
-				"key": "heatrock",
-				"usage": 0
-			},
-			{
-				"key": "damprock",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -51536,6 +50036,7 @@
 				"usage": 0.33
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "psychic",
@@ -51566,23 +50067,22 @@
 				"usage": 2.2
 			},
 			{
-				"key": "lightscreen",
+				"key": "reflect",
 				"usage": 2.1
 			},
 			{
-				"key": "reflect",
+				"key": "lightscreen",
 				"usage": 2.1
 			},
 			{
 				"key": "foulplay",
 				"usage": 1.48
 			}
-		],
-		"rank": 210,
-		"usage": 0.01
+		]
 	},
 	"florges": {
 		"name": "Florges",
+		"rank": 211,
 		"abilities": [
 			{
 				"key": "flowerveil",
@@ -51789,6 +50289,7 @@
 				"usage": 3.37
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "helpinghand",
@@ -51830,12 +50331,11 @@
 				"key": "aromatherapy",
 				"usage": 6.82
 			}
-		],
-		"rank": 211,
-		"usage": 0.01
+		]
 	},
 	"skarmory": {
 		"name": "Skarmory",
+		"rank": 212,
 		"abilities": [
 			{
 				"key": "sturdy",
@@ -52046,6 +50546,7 @@
 				"usage": 0.95
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "bravebird",
@@ -52080,19 +50581,18 @@
 				"usage": 5.62
 			},
 			{
-				"key": "stealthrock",
-				"usage": 3.86
+				"key": "",
+				"usage": 3.88
 			},
 			{
-				"key": "roar",
-				"usage": 2.99
+				"key": "stealthrock",
+				"usage": 3.86
 			}
-		],
-		"rank": 212,
-		"usage": 0.01
+		]
 	},
 	"dusknoir": {
 		"name": "Dusknoir",
+		"rank": 213,
 		"abilities": [
 			{
 				"key": "frisk",
@@ -52299,6 +50799,7 @@
 				"usage": 5.37
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "trickroom",
@@ -52340,12 +50841,11 @@
 				"key": "confuseray",
 				"usage": 9.05
 			}
-		],
-		"rank": 213,
-		"usage": 0.01
+		]
 	},
 	"froslass": {
 		"name": "Froslass",
+		"rank": 214,
 		"abilities": [
 			{
 				"key": "cursedbody",
@@ -52552,6 +51052,7 @@
 				"usage": 0.49
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "icebeam",
@@ -52593,12 +51094,11 @@
 				"key": "thunderbolt",
 				"usage": 0.57
 			}
-		],
-		"rank": 214,
-		"usage": 0.01
+		]
 	},
 	"audinomega": {
 		"name": "Audino-Mega",
+		"rank": 215,
 		"abilities": [
 			{
 				"key": "healer",
@@ -52765,6 +51265,7 @@
 				"usage": 15.11
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "protect",
@@ -52806,12 +51307,11 @@
 				"key": "calmmind",
 				"usage": 9.04
 			}
-		],
-		"rank": 215,
-		"usage": 0.01
+		]
 	},
 	"umbreon": {
 		"name": "Umbreon",
+		"rank": 216,
 		"abilities": [
 			{
 				"key": "innerfocus",
@@ -53018,6 +51518,7 @@
 				"usage": 5.12
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "foulplay",
@@ -53059,42 +51560,21 @@
 				"key": "confuseray",
 				"usage": 10.62
 			}
-		],
-		"rank": 216,
-		"usage": 0.01
+		]
 	},
 	"snivy": {
 		"name": "Snivy",
+		"rank": 217,
 		"abilities": [
 			{
 				"key": "contrary",
 				"usage": 100
-			},
-			{
-				"key": "overgrow",
-				"usage": 0
 			}
 		],
 		"items": [
 			{
 				"key": "choicescarf",
 				"usage": 100
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "rindoberry",
-				"usage": 0
-			},
-			{
-				"key": "eviolite",
-				"usage": 0
-			},
-			{
-				"key": "lumberry",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -53108,50 +51588,6 @@
 				"spe": 252,
 				"key": "Timid:0/0/0/252/0/252",
 				"usage": 100
-			},
-			{
-				"nature": "Hardy",
-				"hp": 84,
-				"atk": 84,
-				"def": 84,
-				"spa": 84,
-				"spd": 84,
-				"spe": 88,
-				"key": "Hardy:84/84/84/84/84/88",
-				"usage": 0
-			},
-			{
-				"nature": "Lonely",
-				"hp": 0,
-				"atk": 0,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 0,
-				"key": "Lonely:0/0/0/0/0/0",
-				"usage": 0
-			},
-			{
-				"nature": "Relaxed",
-				"hp": 132,
-				"atk": 72,
-				"def": 68,
-				"spa": 84,
-				"spd": 84,
-				"spe": 64,
-				"key": "Relaxed:132/72/68/84/84/64",
-				"usage": 0
-			},
-			{
-				"nature": "Hardy",
-				"hp": 0,
-				"atk": 0,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 0,
-				"key": "Hardy:0/0/0/0/0/0",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -53174,31 +51610,12 @@
 			{
 				"key": "Groudon-Primal",
 				"usage": 28.21
-			},
-			{
-				"key": "Houndoom-Mega",
-				"usage": -0.09
-			},
-			{
-				"key": "Pikachu",
-				"usage": -0.04
-			},
-			{
-				"key": "Zoroark",
-				"usage": -0.01
-			},
-			{
-				"key": "Oshawott",
-				"usage": 0
-			},
-			{
-				"key": "Pidove",
-				"usage": 0
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
-				"key": "snatch",
+				"key": "glare",
 				"usage": 100
 			},
 			{
@@ -53206,51 +51623,22 @@
 				"usage": 100
 			},
 			{
-				"key": "glare",
+				"key": "snatch",
 				"usage": 100
 			},
 			{
 				"key": "leafstorm",
 				"usage": 100
-			},
-			{
-				"key": "vinewhip",
-				"usage": 0
-			},
-			{
-				"key": "leafblade",
-				"usage": 0
-			},
-			{
-				"key": "gigadrain",
-				"usage": 0
-			},
-			{
-				"key": "grassknot",
-				"usage": 0
-			},
-			{
-				"key": "calmmind",
-				"usage": 0
-			},
-			{
-				"key": "energyball",
-				"usage": 0
 			}
-		],
-		"rank": 217,
-		"usage": 0.01
+		]
 	},
 	"victreebel": {
 		"name": "Victreebel",
+		"rank": 218,
 		"abilities": [
 			{
 				"key": "chlorophyll",
 				"usage": 100
-			},
-			{
-				"key": "gluttony",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -53277,22 +51665,6 @@
 			{
 				"key": "expertbelt",
 				"usage": 0.01
-			},
-			{
-				"key": "occaberry",
-				"usage": 0
-			},
-			{
-				"key": "absorbbulb",
-				"usage": 0
-			},
-			{
-				"key": "metronome",
-				"usage": 0
-			},
-			{
-				"key": "blacksludge",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -53429,11 +51801,11 @@
 				"usage": 6.24
 			},
 			{
-				"key": "Chimecho",
+				"key": "Weepinbell",
 				"usage": 2.38
 			},
 			{
-				"key": "Weepinbell",
+				"key": "Chimecho",
 				"usage": 2.38
 			},
 			{
@@ -53449,6 +51821,7 @@
 				"usage": 2.2
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "weatherball",
@@ -53490,12 +51863,11 @@
 				"key": "hiddenpowerice",
 				"usage": 2.76
 			}
-		],
-		"rank": 218,
-		"usage": 0.01
+		]
 	},
 	"sawk": {
 		"name": "Sawk",
+		"rank": 219,
 		"abilities": [
 			{
 				"key": "sturdy",
@@ -53504,10 +51876,6 @@
 			{
 				"key": "innerfocus",
 				"usage": 46.05
-			},
-			{
-				"key": "moldbreaker",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -53526,30 +51894,6 @@
 			{
 				"key": "assaultvest",
 				"usage": 0.01
-			},
-			{
-				"key": "chestoberry",
-				"usage": 0
-			},
-			{
-				"key": "redcard",
-				"usage": 0
-			},
-			{
-				"key": "expertbelt",
-				"usage": 0
-			},
-			{
-				"key": "liechiberry",
-				"usage": 0
-			},
-			{
-				"key": "lumberry",
-				"usage": 0
-			},
-			{
-				"key": "lifeorb",
-				"usage": 0
 			}
 		],
 		"spreads": [
@@ -53585,83 +51929,6 @@
 				"spe": 180,
 				"key": "Jolly:76/252/0/0/0/180",
 				"usage": 0.01
-			},
-			{
-				"nature": "Adamant",
-				"hp": 8,
-				"atk": 248,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Adamant:8/248/0/0/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Hardy",
-				"hp": 136,
-				"atk": 88,
-				"def": 76,
-				"spa": 64,
-				"spd": 52,
-				"spe": 88,
-				"key": "Hardy:136/88/76/64/52/88",
-				"usage": 0
-			},
-			{
-				"nature": "Hardy",
-				"hp": 100,
-				"atk": 132,
-				"def": 68,
-				"spa": 28,
-				"spd": 76,
-				"spe": 100,
-				"key": "Hardy:100/132/68/28/76/100",
-				"usage": 0
-			},
-			{
-				"nature": "Adamant",
-				"hp": 244,
-				"atk": 252,
-				"def": 0,
-				"spa": 0,
-				"spd": 12,
-				"spe": 0,
-				"key": "Adamant:244/252/0/0/12/0",
-				"usage": 0
-			},
-			{
-				"nature": "Hardy",
-				"hp": 252,
-				"atk": 0,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 0,
-				"key": "Hardy:252/0/0/0/0/0",
-				"usage": 0
-			},
-			{
-				"nature": "Jolly",
-				"hp": 0,
-				"atk": 252,
-				"def": 76,
-				"spa": 0,
-				"spd": 0,
-				"spe": 180,
-				"key": "Jolly:0/252/76/0/0/180",
-				"usage": 0
-			},
-			{
-				"nature": "Hardy",
-				"hp": 0,
-				"atk": 0,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 0,
-				"key": "Hardy:0/0/0/0/0/0",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -53696,16 +51963,9 @@
 			{
 				"key": "Talonflame",
 				"usage": 21.49
-			},
-			{
-				"key": "Alakazam-Mega",
-				"usage": -0.01
-			},
-			{
-				"key": "Emboar",
-				"usage": -0.02
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "closecombat",
@@ -53716,11 +51976,11 @@
 				"usage": 53.96
 			},
 			{
-				"key": "earthquake",
+				"key": "reversal",
 				"usage": 53.95
 			},
 			{
-				"key": "reversal",
+				"key": "earthquake",
 				"usage": 53.95
 			},
 			{
@@ -53728,11 +51988,11 @@
 				"usage": 46.05
 			},
 			{
-				"key": "doublekick",
+				"key": "counter",
 				"usage": 46.04
 			},
 			{
-				"key": "counter",
+				"key": "doublekick",
 				"usage": 46.04
 			},
 			{
@@ -53747,12 +52007,11 @@
 				"key": "rockslide",
 				"usage": 0.01
 			}
-		],
-		"rank": 219,
-		"usage": 0.01
+		]
 	},
 	"charizard": {
 		"name": "Charizard",
+		"rank": 220,
 		"abilities": [
 			{
 				"key": "solarpower",
@@ -53959,6 +52218,7 @@
 				"usage": 7.52
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "overheat",
@@ -54000,12 +52260,11 @@
 				"key": "airslash",
 				"usage": 21.34
 			}
-		],
-		"rank": 220,
-		"usage": 0.01
+		]
 	},
 	"entei": {
 		"name": "Entei",
+		"rank": 221,
 		"abilities": [
 			{
 				"key": "pressure",
@@ -54046,11 +52305,11 @@
 				"usage": 0.08
 			},
 			{
-				"key": "choicescarf",
+				"key": "focusband",
 				"usage": 0.03
 			},
 			{
-				"key": "focusband",
+				"key": "choicescarf",
 				"usage": 0.03
 			}
 		],
@@ -54208,6 +52467,7 @@
 				"usage": 8.2
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "sacredfire",
@@ -54249,12 +52509,11 @@
 				"key": "willowisp",
 				"usage": 1.86
 			}
-		],
-		"rank": 221,
-		"usage": 0.01
+		]
 	},
 	"qwilfish": {
 		"name": "Qwilfish",
+		"rank": 222,
 		"abilities": [
 			{
 				"key": "intimidate",
@@ -54263,10 +52522,6 @@
 			{
 				"key": "swiftswim",
 				"usage": 0.08
-			},
-			{
-				"key": "poisonpoint",
-				"usage": 0
 			}
 		],
 		"items": [
@@ -54279,36 +52534,20 @@
 				"usage": 1.36
 			},
 			{
-				"key": "choiceband",
-				"usage": 0.07
-			},
-			{
 				"key": "blacksludge",
 				"usage": 0.07
 			},
 			{
-				"key": "lifeorb",
-				"usage": 0.01
+				"key": "choiceband",
+				"usage": 0.07
 			},
 			{
 				"key": "metronome",
 				"usage": 0.01
 			},
 			{
-				"key": "leftovers",
-				"usage": 0
-			},
-			{
-				"key": "rockyhelmet",
-				"usage": 0
-			},
-			{
-				"key": "nothing",
-				"usage": 0
-			},
-			{
-				"key": "sitrusberry",
-				"usage": 0
+				"key": "lifeorb",
+				"usage": 0.01
 			}
 		],
 		"spreads": [
@@ -54366,61 +52605,6 @@
 				"spe": 252,
 				"key": "Timid:244/0/0/12/0/252",
 				"usage": 0.01
-			},
-			{
-				"nature": "Jolly",
-				"hp": 248,
-				"atk": 8,
-				"def": 0,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Jolly:248/8/0/0/0/252",
-				"usage": 0
-			},
-			{
-				"nature": "Jolly",
-				"hp": 252,
-				"atk": 0,
-				"def": 196,
-				"spa": 0,
-				"spd": 0,
-				"spe": 60,
-				"key": "Jolly:252/0/196/0/0/60",
-				"usage": 0
-			},
-			{
-				"nature": "Adamant",
-				"hp": 252,
-				"atk": 8,
-				"def": 0,
-				"spa": 0,
-				"spd": 156,
-				"spe": 92,
-				"key": "Adamant:252/8/0/0/156/92",
-				"usage": 0
-			},
-			{
-				"nature": "Relaxed",
-				"hp": 248,
-				"atk": 0,
-				"def": 252,
-				"spa": 0,
-				"spd": 8,
-				"spe": 0,
-				"key": "Relaxed:248/0/252/0/8/0",
-				"usage": 0
-			},
-			{
-				"nature": "Hardy",
-				"hp": 252,
-				"atk": 0,
-				"def": 4,
-				"spa": 0,
-				"spd": 0,
-				"spe": 252,
-				"key": "Hardy:252/0/4/0/0/252",
-				"usage": 0
 			}
 		],
 		"teammates": [
@@ -54465,17 +52649,18 @@
 				"usage": 0.07
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "poisonjab",
 				"usage": 99.98
 			},
 			{
-				"key": "destinybond",
+				"key": "acidspray",
 				"usage": 98.49
 			},
 			{
-				"key": "acidspray",
+				"key": "destinybond",
 				"usage": 98.49
 			},
 			{
@@ -54506,12 +52691,11 @@
 				"key": "scald",
 				"usage": 0.06
 			}
-		],
-		"rank": 222,
-		"usage": 0.01
+		]
 	},
 	"slowking": {
 		"name": "Slowking",
+		"rank": 223,
 		"abilities": [
 			{
 				"key": "regenerator",
@@ -54548,11 +52732,11 @@
 				"usage": 4.07
 			},
 			{
-				"key": "nothing",
+				"key": "mentalherb",
 				"usage": 3.52
 			},
 			{
-				"key": "mentalherb",
+				"key": "nothing",
 				"usage": 3.52
 			},
 			{
@@ -54722,6 +52906,7 @@
 				"usage": 1.95
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "scald",
@@ -54763,12 +52948,11 @@
 				"key": "skillswap",
 				"usage": 6.1
 			}
-		],
-		"rank": 223,
-		"usage": 0.01
+		]
 	},
 	"empoleon": {
 		"name": "Empoleon",
+		"rank": 224,
 		"abilities": [
 			{
 				"key": "torrent",
@@ -54975,6 +53159,7 @@
 				"usage": 8.66
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "flashcannon",
@@ -55016,12 +53201,11 @@
 				"key": "drillpeck",
 				"usage": 4.24
 			}
-		],
-		"rank": 224,
-		"usage": 0.01
+		]
 	},
 	"tornadustherian": {
 		"name": "Tornadus-Therian",
+		"rank": 225,
 		"abilities": [
 			{
 				"key": "regenerator",
@@ -55224,6 +53408,7 @@
 				"usage": 2.98
 			}
 		],
+		"usage": 0.01,
 		"moves": [
 			{
 				"key": "hurricane",
@@ -55265,8 +53450,6 @@
 				"key": "darkpulse",
 				"usage": 0.24
 			}
-		],
-		"rank": 225,
-		"usage": 0.01
+		]
 	}
 }

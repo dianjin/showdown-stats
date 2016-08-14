@@ -1,5 +1,4 @@
 node_modules
 build/bundle.js
 .DS_STORE
-parsers
-app/server.js
+parsers/constants/extra-data.js

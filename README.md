@@ -1,5 +1,5 @@
 # showdown-stats
-Shows VGC16 usage data from Smogon. Live on http://kdjin.me/showdown-stats/
+Shows VGC16 usage data from Smogon. View on http://dianjin.github.io/showdown-stats
 
 # local setup
 npm install, then npm run dev. Then go to localhost:8080!
