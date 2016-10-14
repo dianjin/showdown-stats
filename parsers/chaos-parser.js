@@ -1,4 +1,4 @@
-var extraData = require('./constants/extra-data')
+var extraData = require('./extra-data')
 var fs = require('fs');
 
 var MAX_ARRAY_LENGTH = 10;

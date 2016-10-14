@@ -13,8 +13,8 @@ var getTier = function(ELOtier) {
 
 // ***** STUFF TO MODIFY
 var year = '2016';
-var month = '07';
-var n = 3
+var month = '09';
+var n = 0
 
 // ***** DONT TOUCH STUFF BELOW THIS LINE!
 
@@ -22,6 +22,7 @@ var season = year + '-' + month
 var tier = ELOtiers[n]
 
 var dataDir = path.join(__dirname, '../build/static/')
+var extraDataDir = path.join(__dirname, '/')
 mkdirp(dataDir)
 
 
@@ -62,12 +63,14 @@ request.get(extraUrl(season, tier), function (error, response, body) {
     }, {})
 
     var myJSON = JSON.stringify(extraData)
-    fs.writeFile(__dirname + "/constants/extra-data.js", 'module.exports = ' + myJSON, function(err) {
+    extraDataPath = extraDataDir + "extra-data.js"
+    fs.openSync(extraDataPath, 'w')
+    fs.writeFile(extraDataDir + "extra-data.js", 'module.exports = ' + myJSON, function(err) {
       if(err) {
         return console.log(err);
       }
-      // console.log(myJSON)
-      console.log('Wrote to extra-data.js')
+      console.log('Wrote to extra-data.js');
+      getChaos();
     })
   }
 });
@@ -80,21 +83,19 @@ var writeFile = function(key, output) {
   })
 }
 
-request.get(chaosUrl(season, tier), function (error, response, body) {
-  var parseChaos = require(__dirname + '/chaos-parser.js')
-  var filename = '/' + [year, month, tier].join('-') + '.js'
-  if (!error && response.statusCode == 200) {
-    var bodyData = JSON.parse(body).data;
-    var output = parseChaos(bodyData);
-    fs.writeFile(dataDir + filename, prettyStringify(output), function(err) {
-      if (err) {
-        return console.log(err);
-      }
-      console.log("Wrote to " + filename)
-    })
-    // var keys = Object.keys(output)
-    // for (var i = 0; i < keys.length; i++) {
-      // writeFile(keys[i], output)
-    // }
-  }
-});
+var getChaos = function() {
+  request.get(chaosUrl(season, tier), function (error, response, body) {
+    var parseChaos = require(__dirname + '/chaos-parser.js')
+    var filename = '/' + [year, month, tier].join('-') + '.js'
+    if (!error && response.statusCode == 200) {
+      var bodyData = JSON.parse(body).data;
+      var output = parseChaos(bodyData);
+      fs.writeFile(dataDir + filename, prettyStringify(output), function(err) {
+        if (err) {
+          return console.log(err);
+        }
+        console.log("Wrote to " + filename)
+      })
+    }
+  });
+}

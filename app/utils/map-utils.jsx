@@ -16,7 +16,8 @@ const USAGE_THRESHOLD = 0.1
 var mapReducer = (currentList, contextObj, key, nameKey, context) => {
   if (dex[context][key] === undefined) {
     console.log(context, key)
-  }
+    return currentList
+  } 
     return currentList.push({
       label: dex[context][key][nameKey],
       key: key,
